@@ -1,0 +1,72 @@
+2025-01-13 15:22:13 - Total Customers FROM sAGE: 907
+2025-01-13 15:22:22 - Adding New Customer:013301AG
+2025-01-13 15:22:25 - Adding New Customer:013309AG
+2025-01-13 15:22:25 - Adding New Customer:013312AG
+2025-01-13 15:22:26 - Adding New Customer:013323AG
+2025-01-13 15:22:26 - Adding New Customer:013324AG
+2025-01-13 15:22:26 - Adding New Customer:013325AG
+2025-01-13 15:22:26 - Adding New Customer:013327AG
+2025-01-13 15:22:26 - Adding New Customer:013329AG
+2025-01-13 15:22:28 - Adding New Customer:013332AG
+2025-01-13 15:22:29 - Adding New Customer:013335AG
+2025-01-13 15:22:29 - Adding New Customer:013336AG
+2025-01-13 15:22:30 - Adding New Customer:013340-O
+2025-01-13 15:22:30 - Error While Adding or Updating Customer:013341AGERROR:{"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+2025-01-13 15:22:39 - Adding New Customer:013364AG
+2025-01-13 15:22:39 - Adding New Customer:013365AG
+2025-01-13 15:22:43 - Error While Adding or Updating Customer:013374AGERROR:{"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+2025-01-13 15:22:45 - Error While Adding or Updating Customer:013379AGERROR:{"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+2025-01-13 15:22:45 - Adding New Customer:013383AG
+2025-01-13 15:22:45 - Adding New Customer:013384AG
+2025-01-13 15:22:45 - Adding New Customer:013385AG
+2025-01-13 15:22:45 - Adding New Customer:013386AG
+2025-01-13 15:22:45 - Adding New Customer:013389AG
+2025-01-13 15:22:45 - Adding New Customer:013391AG
+2025-01-13 15:22:45 - Adding New Customer:013392AG
+2025-01-13 15:22:47 - Error While Adding or Updating Customer:013394AGERROR:{"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+2025-01-13 15:22:48 - Adding New Customer:013396AG
+2025-01-13 15:22:51 - Adding New Customer:013402AG
+2025-01-13 15:22:52 - Adding New Customer:013405AG
+2025-01-13 15:22:52 - Adding New Customer:013406AG
+2025-01-13 15:22:52 - Adding New Customer:013407AG
+2025-01-13 15:22:52 - Adding New Customer:013411AG
+2025-01-13 15:22:53 - Error While Adding or Updating Customer:013412AGERROR:{"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+2025-01-13 15:22:53 - Adding New Customer:013413AG
+2025-01-13 15:22:53 - Error While Adding or Updating Customer:013414AGERROR:{"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+2025-01-13 15:22:53 - Adding New Customer:013415AG
+2025-01-13 15:22:54 - Error While Adding or Updating Customer:013418AGERROR:{"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+2025-01-13 15:22:54 - Adding New Customer:013419AG
+2025-01-13 15:22:55 - Adding New Customer:013425AG
+2025-01-13 15:22:55 - Adding New Customer:013426AG
+2025-01-13 15:22:55 - Adding New Customer:013431AG
+2025-01-13 15:22:56 - Adding New Customer:013433AG
+2025-01-13 15:22:56 - Adding New Customer:013436AG
+2025-01-13 15:22:58 - Adding New Customer:013447AG
+2025-01-13 15:22:59 - Error While Adding or Updating Customer:013450AGERROR:{"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+2025-01-13 15:23:01 - Adding New Customer:013453AG
+2025-01-13 15:23:02 - Error While Adding or Updating Customer:013456AGERROR:{"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+2025-01-13 15:23:02 - Error While Adding or Updating Customer:013457AGERROR:{"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+2025-01-13 15:23:05 - Error While Adding or Updating Customer:013464AGERROR:{"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+2025-01-13 15:23:05 - Adding New Customer:013465AG
+2025-01-13 15:23:07 - Adding New Customer:013467AG
+2025-01-13 15:23:07 - Adding New Customer:013469AG
+2025-01-13 15:23:12 - Adding New Customer:013499AG
+2025-01-13 15:23:12 - Adding New Customer:013502AG
+2025-01-13 15:23:13 - Error While Adding or Updating Customer:013503AGERROR:{"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+2025-01-13 15:23:13 - Error While Adding or Updating Customer:013504AGERROR:{"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+2025-01-13 15:23:13 - Adding New Customer:013505AG
+2025-01-13 15:23:13 - Adding New Customer:013506AG
+2025-01-13 15:23:14 - Adding New Customer:013509-D
+2025-01-13 15:23:14 - Adding New Customer:02269D
+2025-01-13 15:23:15 - Adding New Customer:02355-O
+2025-01-13 15:23:15 - Adding New Customer:03348-R
+2025-01-13 15:23:15 - Adding New Customer:034012AG
+2025-01-13 15:23:15 - Adding New Customer:034018AG
+2025-01-13 15:23:17 - Adding New Customer:034024AG
+2025-01-13 15:23:17 - Error While Adding or Updating Customer:034026AGERROR:{"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+2025-01-13 15:23:18 - Error While Adding or Updating Customer:034028AGERROR:{"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+2025-01-13 15:23:19 - Adding New Customer:034030AG
+2025-01-13 15:23:20 - Adding New Customer:034032AG
+2025-01-13 15:23:20 - Adding New Customer:034034AG
+2025-01-13 15:23:21 - Adding New Customer:034036AG
+2025-01-13 15:23:21 - Error While Adding or Updating Customer:034037AGERROR:{"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
