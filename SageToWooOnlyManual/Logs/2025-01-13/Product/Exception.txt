@@ -1,5 +1,0 @@
-2025-01-13 15:43:49 - An error occurred while sending the request.
-   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
-   at WooCommerceNET.RestAPI.PostRestful(String endpoint, Object jsonObject, Dictionary`2 parms)
-   at WooCommerceNET.Base.WCItem`1.Add(T item, Dictionary`2 parms)
-   at SageIntegration.WooRepository.Product.ProductRepository.AddAsync(SageProductInfo sageProduct) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Product\ProductRepository.cs:line 79
