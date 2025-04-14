@@ -1,0 +1,28 @@
+2024-12-04 21:27:36 - Getting Sales Order from Sage
+2024-12-04 21:50:17 - Getting Sales Order from Sage
+2024-12-04 21:50:31 - Error While Adding or Updating order: ERROR:{"code":"woocommerce_rest_shop_order_invalid_id","message":"Invalid ID.","data":{"status":404}}
+2024-12-04 21:50:49 - Error While Adding or Updating order: ERROR:Object reference not set to an instance of an object.
+2024-12-04 21:50:54 - Error While Adding or Updating order: ERROR:Object reference not set to an instance of an object.
+2024-12-04 21:50:59 - Error While Adding or Updating order: ERROR:Object reference not set to an instance of an object.
+2024-12-04 21:51:03 - Error While Adding or Updating order: ERROR:Object reference not set to an instance of an object.
+2024-12-04 21:51:07 - Error While Adding or Updating order: ERROR:Nullable object must have a value.
+2024-12-04 21:51:11 - Error While Adding or Updating order: ERROR:Object reference not set to an instance of an object.
+2024-12-04 21:51:49 - Error While Adding or Updating order: ERROR:Object reference not set to an instance of an object.
+2024-12-04 21:52:39 - Error While Adding or Updating order: ERROR:Object reference not set to an instance of an object.
+2024-12-04 21:52:53 - Error While Adding or Updating order: ERROR:Object reference not set to an instance of an object.
+2024-12-04 21:55:03 - Getting Sales Order from Sage
+2024-12-04 21:56:34 - Error While Adding or Updating order: ERROR:{"code":"woocommerce_rest_shop_order_invalid_id","message":"Invalid ID.","data":{"status":404}}
+2024-12-04 21:57:38 - Getting Sales Order from Sage
+2024-12-04 22:00:52 - Getting Sales Order from Sage
+2024-12-04 22:22:01 - Getting Sales Order from Sage
+2024-12-04 22:34:45 - Getting Sales Order from Sage
+2024-12-04 22:37:02 - Getting Sales Order from Sage
+2024-12-04 22:37:34 - Getting Sales Order from Sage
+2024-12-04 22:39:33 - Getting Sales Order from Sage
+2024-12-04 22:40:29 - Getting Sales Order from Sage
+2024-12-04 22:43:56 - Getting Sales Order from Sage
+2024-12-04 22:44:03 - Error while getting order from sage Error: Not a legal OleAut date.
+2024-12-04 22:44:12 - Error while getting order from sage Error: Not a legal OleAut date.
+2024-12-04 22:46:08 - Getting Sales Order from Sage
+2024-12-04 22:46:14 - Error while getting order from sage Error: Not a legal OleAut date.
+2024-12-04 22:46:15 - Error while getting order from sage Error: Not a legal OleAut date.

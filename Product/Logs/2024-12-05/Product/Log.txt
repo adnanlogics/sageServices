@@ -1,0 +1,6 @@
+2024-12-05 23:04:09 - Getting Products from Sage
+2024-12-05 23:04:32 - Adding Product:PRD2024
+2024-12-05 23:07:54 - Mapping WooCommerce Product to Sage: PRD2024
+2024-12-05 23:07:54 - Mapped Sage Stock Record: PRD2024
+2024-12-05 23:56:40 - Getting Products from Sage
+2024-12-05 23:56:51 - Adding Product:TAX20

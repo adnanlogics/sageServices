@@ -1,0 +1,12 @@
+2025-01-21 13:58:01 - Object reference not set to an instance of an object.
+   at SageIntegration.SageService.Invoice.SageToPDF.addSageToPDF()
+2025-01-21 13:59:05 - {"code":"woocommerce_rest_shop_order_invalid_id","message":"Invalid ID.","data":{"status":404}}
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.Get(UInt64 id, Dictionary`2 parms)
+   at SageIntegration.SageService.Invoice.SageToPDF.addSageToPDF()
+2025-01-21 14:01:02 - {"code":"woocommerce_rest_shop_order_invalid_id","message":"Invalid ID.","data":{"status":404}}
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.Get(UInt64 id, Dictionary`2 parms)
+   at SageIntegration.SageService.Invoice.SageToPDF.addSageToPDF()

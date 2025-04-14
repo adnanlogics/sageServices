@@ -1,0 +1,61 @@
+2024-12-04 21:27:39 - Not a legal OleAut date.
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Object[] aArgs, Boolean[] aArgsIsByRef, Int32[] aArgsWrapperTypes, Type[] aArgsTypes, Type retType)
+   at SageDataObject300.IField.get_Value()
+   at SageIntegration.SageRepository.SalesOrder.SalesOrder.GetAll() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\SalesOrder\SalesOrder.cs:line 44
+2024-12-04 21:51:05 - {"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Invoice.SageToPDF.addSageToPDF() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Invoice\SageToPDF.cs:line 60
+2024-12-04 22:37:07 - Not a legal OleAut date.
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Object[] aArgs, Boolean[] aArgsIsByRef, Int32[] aArgsWrapperTypes, Type[] aArgsTypes, Type retType)
+   at SageDataObject300.IField.get_Value()
+   at SageIntegration.SageRepository.SalesOrder.SalesOrder.GetAll() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\SalesOrder\SalesOrder.cs:line 44
+2024-12-04 22:38:35 - Not a legal OleAut date.
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Object[] aArgs, Boolean[] aArgsIsByRef, Int32[] aArgsWrapperTypes, Type[] aArgsTypes, Type retType)
+   at SageDataObject300.IField.get_Value()
+   at SageIntegration.SageRepository.SalesOrder.SalesOrder.GetAll() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\SalesOrder\SalesOrder.cs:line 44
+2024-12-04 22:39:38 - Not a legal OleAut date.
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Object[] aArgs, Boolean[] aArgsIsByRef, Int32[] aArgsWrapperTypes, Type[] aArgsTypes, Type retType)
+   at SageDataObject300.IField.get_Value()
+   at SageIntegration.SageRepository.SalesOrder.SalesOrder.GetAll() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\SalesOrder\SalesOrder.cs:line 44
+2024-12-04 22:41:26 - Not a legal OleAut date.
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Object[] aArgs, Boolean[] aArgsIsByRef, Int32[] aArgsWrapperTypes, Type[] aArgsTypes, Type retType)
+   at SageDataObject300.IField.get_Value()
+   at SageIntegration.SageRepository.SalesOrder.SalesOrder.GetAll() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\SalesOrder\SalesOrder.cs:line 44
+2024-12-04 22:44:03 - Not a legal OleAut date.
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Object[] aArgs, Boolean[] aArgsIsByRef, Int32[] aArgsWrapperTypes, Type[] aArgsTypes, Type retType)
+   at SageDataObject300.IField.get_Value()
+   at SageIntegration.SageRepository.SalesOrder.SalesOrder.GetAll() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\SalesOrder\SalesOrder.cs:line 46
+2024-12-04 22:44:12 - Not a legal OleAut date.
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Object[] aArgs, Boolean[] aArgsIsByRef, Int32[] aArgsWrapperTypes, Type[] aArgsTypes, Type retType)
+   at SageDataObject300.IField.get_Value()
+   at SageIntegration.SageRepository.SalesOrder.SalesOrder.GetAll() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\SalesOrder\SalesOrder.cs:line 46
+2024-12-04 22:46:14 - Not a legal OleAut date.
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Object[] aArgs, Boolean[] aArgsIsByRef, Int32[] aArgsWrapperTypes, Type[] aArgsTypes, Type retType)
+   at SageDataObject300.IField.get_Value()
+   at SageIntegration.SageRepository.SalesOrder.SalesOrder.GetAll() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\SalesOrder\SalesOrder.cs:line 46
+2024-12-04 22:46:15 - Not a legal OleAut date.
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Object[] aArgs, Boolean[] aArgsIsByRef, Int32[] aArgsWrapperTypes, Type[] aArgsTypes, Type retType)
+   at SageDataObject300.IField.get_Value()
+   at SageIntegration.SageRepository.SalesOrder.SalesOrder.GetAll() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\SalesOrder\SalesOrder.cs:line 46

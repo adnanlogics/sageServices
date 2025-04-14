@@ -1,0 +1,96 @@
+2025-01-28 17:37:15 - COM object that has been separated from its underlying RCW cannot be used.
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Object[] aArgs, Boolean[] aArgsIsByRef, Int32[] aArgsWrapperTypes, Type[] aArgsTypes, Type retType)
+   at SageDataObject310.IWorkSpace.Disconnect()
+   at SageIntegration.Client.SageConnectionManager.Disconnect(WorkSpace workspace) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\Client\SageConnectionManager.cs:line 56
+   at SageIntegration.SageRepository.SalesOrder.SalesOrder.AddOrUpdateOrder(Order wooOrder, Customer customer) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\SalesOrder\SalesOrder.cs:line 377
+   at SageIntegration.WooServices.WooService.addOrderWootoSage() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooServices\WooService.cs:line 124
+2025-01-28 17:37:38 - COM object that has been separated from its underlying RCW cannot be used.
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Object[] aArgs, Boolean[] aArgsIsByRef, Int32[] aArgsWrapperTypes, Type[] aArgsTypes, Type retType)
+   at SageDataObject310.IWorkSpace.Disconnect()
+   at SageIntegration.Client.SageConnectionManager.Disconnect(WorkSpace workspace) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\Client\SageConnectionManager.cs:line 56
+   at SageIntegration.SageRepository.SalesOrder.SalesOrder.AddOrUpdateOrder(Order wooOrder, Customer customer) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\SalesOrder\SalesOrder.cs:line 377
+   at SageIntegration.WooServices.WooService.addOrderWootoSage() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooServices\WooService.cs:line 124
+2025-01-28 17:37:46 - COM object that has been separated from its underlying RCW cannot be used.
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Object[] aArgs, Boolean[] aArgsIsByRef, Int32[] aArgsWrapperTypes, Type[] aArgsTypes, Type retType)
+   at SageDataObject310.IWorkSpace.Disconnect()
+   at SageIntegration.Client.SageConnectionManager.Disconnect(WorkSpace workspace) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\Client\SageConnectionManager.cs:line 56
+   at SageIntegration.SageRepository.SalesOrder.SalesOrder.AddOrUpdateOrder(Order wooOrder, Customer customer) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\SalesOrder\SalesOrder.cs:line 377
+   at SageIntegration.WooServices.WooService.addOrderWootoSage() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooServices\WooService.cs:line 124
+2025-01-28 17:37:55 - COM object that has been separated from its underlying RCW cannot be used.
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Object[] aArgs, Boolean[] aArgsIsByRef, Int32[] aArgsWrapperTypes, Type[] aArgsTypes, Type retType)
+   at SageDataObject310.IWorkSpace.Disconnect()
+   at SageIntegration.Client.SageConnectionManager.Disconnect(WorkSpace workspace) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\Client\SageConnectionManager.cs:line 56
+   at SageIntegration.SageRepository.SalesOrder.SalesOrder.AddOrUpdateOrder(Order wooOrder, Customer customer) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\SalesOrder\SalesOrder.cs:line 377
+   at SageIntegration.WooServices.WooService.addOrderWootoSage() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooServices\WooService.cs:line 124
+2025-01-28 17:38:03 - COM object that has been separated from its underlying RCW cannot be used.
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Object[] aArgs, Boolean[] aArgsIsByRef, Int32[] aArgsWrapperTypes, Type[] aArgsTypes, Type retType)
+   at SageDataObject310.IWorkSpace.Disconnect()
+   at SageIntegration.Client.SageConnectionManager.Disconnect(WorkSpace workspace) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\Client\SageConnectionManager.cs:line 56
+   at SageIntegration.SageRepository.SalesOrder.SalesOrder.AddOrUpdateOrder(Order wooOrder, Customer customer) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\SalesOrder\SalesOrder.cs:line 377
+   at SageIntegration.WooServices.WooService.addOrderWootoSage() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooServices\WooService.cs:line 124
+2025-01-28 17:38:15 - COM object that has been separated from its underlying RCW cannot be used.
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Object[] aArgs, Boolean[] aArgsIsByRef, Int32[] aArgsWrapperTypes, Type[] aArgsTypes, Type retType)
+   at SageDataObject310.IWorkSpace.Disconnect()
+   at SageIntegration.Client.SageConnectionManager.Disconnect(WorkSpace workspace) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\Client\SageConnectionManager.cs:line 56
+   at SageIntegration.SageRepository.SalesOrder.SalesOrder.AddOrUpdateOrder(Order wooOrder, Customer customer) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\SalesOrder\SalesOrder.cs:line 377
+   at SageIntegration.WooServices.WooService.addOrderWootoSage() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooServices\WooService.cs:line 124
+2025-01-28 17:38:27 - COM object that has been separated from its underlying RCW cannot be used.
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Object[] aArgs, Boolean[] aArgsIsByRef, Int32[] aArgsWrapperTypes, Type[] aArgsTypes, Type retType)
+   at SageDataObject310.IWorkSpace.Disconnect()
+   at SageIntegration.Client.SageConnectionManager.Disconnect(WorkSpace workspace) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\Client\SageConnectionManager.cs:line 56
+   at SageIntegration.SageRepository.SalesOrder.SalesOrder.AddOrUpdateOrder(Order wooOrder, Customer customer) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\SalesOrder\SalesOrder.cs:line 377
+   at SageIntegration.WooServices.WooService.addOrderWootoSage() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooServices\WooService.cs:line 124
+2025-01-28 17:38:35 - COM object that has been separated from its underlying RCW cannot be used.
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Object[] aArgs, Boolean[] aArgsIsByRef, Int32[] aArgsWrapperTypes, Type[] aArgsTypes, Type retType)
+   at SageDataObject310.IWorkSpace.Disconnect()
+   at SageIntegration.Client.SageConnectionManager.Disconnect(WorkSpace workspace) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\Client\SageConnectionManager.cs:line 56
+   at SageIntegration.SageRepository.SalesOrder.SalesOrder.AddOrUpdateOrder(Order wooOrder, Customer customer) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\SalesOrder\SalesOrder.cs:line 377
+   at SageIntegration.WooServices.WooService.addOrderWootoSage() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooServices\WooService.cs:line 124
+2025-01-28 17:38:54 - COM object that has been separated from its underlying RCW cannot be used.
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Object[] aArgs, Boolean[] aArgsIsByRef, Int32[] aArgsWrapperTypes, Type[] aArgsTypes, Type retType)
+   at SageDataObject310.IWorkSpace.Disconnect()
+   at SageIntegration.Client.SageConnectionManager.Disconnect(WorkSpace workspace) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\Client\SageConnectionManager.cs:line 56
+   at SageIntegration.SageRepository.SalesOrder.SalesOrder.AddOrUpdateOrder(Order wooOrder, Customer customer) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\SalesOrder\SalesOrder.cs:line 377
+   at SageIntegration.WooServices.WooService.addOrderWootoSage() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooServices\WooService.cs:line 124
+2025-01-28 17:39:02 - COM object that has been separated from its underlying RCW cannot be used.
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Object[] aArgs, Boolean[] aArgsIsByRef, Int32[] aArgsWrapperTypes, Type[] aArgsTypes, Type retType)
+   at SageDataObject310.IWorkSpace.Disconnect()
+   at SageIntegration.Client.SageConnectionManager.Disconnect(WorkSpace workspace) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\Client\SageConnectionManager.cs:line 56
+   at SageIntegration.SageRepository.SalesOrder.SalesOrder.AddOrUpdateOrder(Order wooOrder, Customer customer) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\SalesOrder\SalesOrder.cs:line 377
+   at SageIntegration.WooServices.WooService.addOrderWootoSage() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooServices\WooService.cs:line 124
+2025-01-28 17:40:31 - COM object that has been separated from its underlying RCW cannot be used.
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Object[] aArgs, Boolean[] aArgsIsByRef, Int32[] aArgsWrapperTypes, Type[] aArgsTypes, Type retType)
+   at SageDataObject310.IWorkSpace.Disconnect()
+   at SageIntegration.Client.SageConnectionManager.Disconnect(WorkSpace workspace) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\Client\SageConnectionManager.cs:line 56
+   at SageIntegration.SageRepository.SalesOrder.SalesOrder.AddOrUpdateOrder(Order wooOrder, Customer customer) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\SalesOrder\SalesOrder.cs:line 377
+   at SageIntegration.WooServices.WooService.addOrderWootoSage() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooServices\WooService.cs:line 124
+2025-01-28 17:40:44 - COM object that has been separated from its underlying RCW cannot be used.
+   at System.RuntimeType.InvokeDispMethod(String name, BindingFlags invokeAttr, Object target, Object[] args, Boolean[] byrefModifiers, Int32 culture, String[] namedParameters)
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Object[] aArgs, Boolean[] aArgsIsByRef, Int32[] aArgsWrapperTypes, Type[] aArgsTypes, Type retType)
+   at SageDataObject310.IWorkSpace.Disconnect()
+   at SageIntegration.Client.SageConnectionManager.Disconnect(WorkSpace workspace) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\Client\SageConnectionManager.cs:line 56
+   at SageIntegration.SageRepository.SalesOrder.SalesOrder.AddOrUpdateOrder(Order wooOrder, Customer customer) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\SalesOrder\SalesOrder.cs:line 377
+   at SageIntegration.WooServices.WooService.addOrderWootoSage() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooServices\WooService.cs:line 124

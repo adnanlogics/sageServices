@@ -1,0 +1,134 @@
+2024-12-25 12:53:33 - Invalid value specified
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Object[] aArgs, Boolean[] aArgsIsByRef, Int32[] aArgsWrapperTypes, Type[] aArgsTypes, Type retType)
+   at SageDataObject300.IField.set_Value(Object)
+   at SageIntegration.SageRepository.Product.ProductRepository.AddAsync(Product wooProduct) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\Product\ProductRepository.cs:line 57
+2024-12-25 12:53:34 - Invalid value specified
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Object[] aArgs, Boolean[] aArgsIsByRef, Int32[] aArgsWrapperTypes, Type[] aArgsTypes, Type retType)
+   at SageDataObject300.IField.set_Value(Object)
+   at SageIntegration.SageRepository.Product.ProductRepository.AddAsync(Product wooProduct) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\Product\ProductRepository.cs:line 57
+2024-12-25 12:53:34 - Invalid value specified
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Object[] aArgs, Boolean[] aArgsIsByRef, Int32[] aArgsWrapperTypes, Type[] aArgsTypes, Type retType)
+   at SageDataObject300.IField.set_Value(Object)
+   at SageIntegration.SageRepository.Product.ProductRepository.AddAsync(Product wooProduct) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\Product\ProductRepository.cs:line 57
+2024-12-25 12:53:35 - Invalid value specified
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Object[] aArgs, Boolean[] aArgsIsByRef, Int32[] aArgsWrapperTypes, Type[] aArgsTypes, Type retType)
+   at SageDataObject300.IField.set_Value(Object)
+   at SageIntegration.SageRepository.Product.ProductRepository.AddAsync(Product wooProduct) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\Product\ProductRepository.cs:line 57
+2024-12-25 12:53:36 - Invalid value specified
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Object[] aArgs, Boolean[] aArgsIsByRef, Int32[] aArgsWrapperTypes, Type[] aArgsTypes, Type retType)
+   at SageDataObject300.IField.set_Value(Object)
+   at SageIntegration.SageRepository.Product.ProductRepository.AddAsync(Product wooProduct) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\Product\ProductRepository.cs:line 57
+2024-12-25 12:53:36 - Invalid value specified
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Object[] aArgs, Boolean[] aArgsIsByRef, Int32[] aArgsWrapperTypes, Type[] aArgsTypes, Type retType)
+   at SageDataObject300.IField.set_Value(Object)
+   at SageIntegration.SageRepository.Product.ProductRepository.AddAsync(Product wooProduct) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\Product\ProductRepository.cs:line 57
+2024-12-25 12:53:37 - Invalid value specified
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Object[] aArgs, Boolean[] aArgsIsByRef, Int32[] aArgsWrapperTypes, Type[] aArgsTypes, Type retType)
+   at SageDataObject300.IField.set_Value(Object)
+   at SageIntegration.SageRepository.Product.ProductRepository.AddAsync(Product wooProduct) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\Product\ProductRepository.cs:line 57
+2024-12-25 12:53:38 - Invalid value specified
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Object[] aArgs, Boolean[] aArgsIsByRef, Int32[] aArgsWrapperTypes, Type[] aArgsTypes, Type retType)
+   at SageDataObject300.IField.set_Value(Object)
+   at SageIntegration.SageRepository.Product.ProductRepository.AddAsync(Product wooProduct) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\Product\ProductRepository.cs:line 57
+2024-12-25 12:53:38 - Invalid value specified
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Object[] aArgs, Boolean[] aArgsIsByRef, Int32[] aArgsWrapperTypes, Type[] aArgsTypes, Type retType)
+   at SageDataObject300.IField.set_Value(Object)
+   at SageIntegration.SageRepository.Product.ProductRepository.AddAsync(Product wooProduct) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\Product\ProductRepository.cs:line 57
+2024-12-25 12:53:39 - Invalid value specified
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Object[] aArgs, Boolean[] aArgsIsByRef, Int32[] aArgsWrapperTypes, Type[] aArgsTypes, Type retType)
+   at SageDataObject300.IField.set_Value(Object)
+   at SageIntegration.SageRepository.Product.ProductRepository.AddAsync(Product wooProduct) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\Product\ProductRepository.cs:line 57
+2024-12-25 12:53:40 - Invalid value specified
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Object[] aArgs, Boolean[] aArgsIsByRef, Int32[] aArgsWrapperTypes, Type[] aArgsTypes, Type retType)
+   at SageDataObject300.IField.set_Value(Object)
+   at SageIntegration.SageRepository.Product.ProductRepository.AddAsync(Product wooProduct) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\Product\ProductRepository.cs:line 57
+2024-12-25 12:53:40 - Invalid value specified
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Object[] aArgs, Boolean[] aArgsIsByRef, Int32[] aArgsWrapperTypes, Type[] aArgsTypes, Type retType)
+   at SageDataObject300.IField.set_Value(Object)
+   at SageIntegration.SageRepository.Product.ProductRepository.AddAsync(Product wooProduct) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\Product\ProductRepository.cs:line 57
+2024-12-25 12:53:41 - Invalid value specified
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Object[] aArgs, Boolean[] aArgsIsByRef, Int32[] aArgsWrapperTypes, Type[] aArgsTypes, Type retType)
+   at SageDataObject300.IField.set_Value(Object)
+   at SageIntegration.SageRepository.Product.ProductRepository.AddAsync(Product wooProduct) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\Product\ProductRepository.cs:line 57
+2024-12-25 12:53:42 - Invalid value specified
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Object[] aArgs, Boolean[] aArgsIsByRef, Int32[] aArgsWrapperTypes, Type[] aArgsTypes, Type retType)
+   at SageDataObject300.IField.set_Value(Object)
+   at SageIntegration.SageRepository.Product.ProductRepository.AddAsync(Product wooProduct) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\Product\ProductRepository.cs:line 57
+2024-12-25 12:53:42 - Invalid value specified
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Object[] aArgs, Boolean[] aArgsIsByRef, Int32[] aArgsWrapperTypes, Type[] aArgsTypes, Type retType)
+   at SageDataObject300.IField.set_Value(Object)
+   at SageIntegration.SageRepository.Product.ProductRepository.AddAsync(Product wooProduct) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\Product\ProductRepository.cs:line 57
+2024-12-25 12:53:43 - Invalid value specified
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Object[] aArgs, Boolean[] aArgsIsByRef, Int32[] aArgsWrapperTypes, Type[] aArgsTypes, Type retType)
+   at SageDataObject300.IField.set_Value(Object)
+   at SageIntegration.SageRepository.Product.ProductRepository.AddAsync(Product wooProduct) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\Product\ProductRepository.cs:line 57
+2024-12-25 12:53:44 - Invalid value specified
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Object[] aArgs, Boolean[] aArgsIsByRef, Int32[] aArgsWrapperTypes, Type[] aArgsTypes, Type retType)
+   at SageDataObject300.IField.set_Value(Object)
+   at SageIntegration.SageRepository.Product.ProductRepository.AddAsync(Product wooProduct) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\Product\ProductRepository.cs:line 57
+2024-12-25 12:53:44 - Invalid value specified
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Object[] aArgs, Boolean[] aArgsIsByRef, Int32[] aArgsWrapperTypes, Type[] aArgsTypes, Type retType)
+   at SageDataObject300.IField.set_Value(Object)
+   at SageIntegration.SageRepository.Product.ProductRepository.AddAsync(Product wooProduct) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\Product\ProductRepository.cs:line 57
+2024-12-25 12:53:45 - Invalid value specified
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Object[] aArgs, Boolean[] aArgsIsByRef, Int32[] aArgsWrapperTypes, Type[] aArgsTypes, Type retType)
+   at SageDataObject300.IField.set_Value(Object)
+   at SageIntegration.SageRepository.Product.ProductRepository.AddAsync(Product wooProduct) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\Product\ProductRepository.cs:line 57
+2024-12-25 12:53:46 - Invalid value specified
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Object[] aArgs, Boolean[] aArgsIsByRef, Int32[] aArgsWrapperTypes, Type[] aArgsTypes, Type retType)
+   at SageDataObject300.IField.set_Value(Object)
+   at SageIntegration.SageRepository.Product.ProductRepository.AddAsync(Product wooProduct) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\Product\ProductRepository.cs:line 57
+2024-12-25 12:53:46 - Invalid value specified
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Object[] aArgs, Boolean[] aArgsIsByRef, Int32[] aArgsWrapperTypes, Type[] aArgsTypes, Type retType)
+   at SageDataObject300.IField.set_Value(Object)
+   at SageIntegration.SageRepository.Product.ProductRepository.AddAsync(Product wooProduct) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\Product\ProductRepository.cs:line 57
+2024-12-25 12:53:47 - Invalid value specified
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Object[] aArgs, Boolean[] aArgsIsByRef, Int32[] aArgsWrapperTypes, Type[] aArgsTypes, Type retType)
+   at SageDataObject300.IField.set_Value(Object)
+   at SageIntegration.SageRepository.Product.ProductRepository.AddAsync(Product wooProduct) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\Product\ProductRepository.cs:line 57
+2024-12-25 12:53:47 - Invalid value specified
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Object[] aArgs, Boolean[] aArgsIsByRef, Int32[] aArgsWrapperTypes, Type[] aArgsTypes, Type retType)
+   at SageDataObject300.IField.set_Value(Object)
+   at SageIntegration.SageRepository.Product.ProductRepository.AddAsync(Product wooProduct) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\Product\ProductRepository.cs:line 57
+2024-12-25 12:53:48 - Invalid value specified
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Object[] aArgs, Boolean[] aArgsIsByRef, Int32[] aArgsWrapperTypes, Type[] aArgsTypes, Type retType)
+   at SageDataObject300.IField.set_Value(Object)
+   at SageIntegration.SageRepository.Product.ProductRepository.AddAsync(Product wooProduct) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\Product\ProductRepository.cs:line 57
+2024-12-25 12:53:49 - Invalid value specified
+   at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object[] providedArgs, ParameterModifier[] modifiers, CultureInfo culture, String[] namedParams)
+   at System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Object[] aArgs, Boolean[] aArgsIsByRef, Int32[] aArgsWrapperTypes, Type[] aArgsTypes, Type retType)
+   at SageDataObject300.IField.set_Value(Object)
+   at SageIntegration.SageRepository.Product.ProductRepository.AddAsync(Product wooProduct) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\Product\ProductRepository.cs:line 57
+2024-12-25 21:07:04 - There was an error deserializing the object of type System.Collections.Generic.List`1[[WooCommerceNET.WooCommerce.v3.Customer, WooCommerce.NET, Version=0.8.6.0, Culture=neutral, PublicKeyToken=null]]. Encountered unexpected character 'U'.
+   at WooCommerceNET.RestAPI.DeserializeJSon[T](String jsonString)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetAllAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 127
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at SageIntegration.WooRepository.Product.ProductRepository.GetAll() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Product\ProductRepository.cs:line 131

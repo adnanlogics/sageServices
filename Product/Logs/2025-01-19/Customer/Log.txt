@@ -1,0 +1,3 @@
+2025-01-19 19:57:59 - Error While getting Customer from Sage ERROR:Error connecting to Sage: Program is in exclusive mode. Logon cannot proceed
+2025-01-19 19:58:12 - Error While Running Customer Service ERROR:Object reference not set to an instance of an object.
+2025-01-19 20:29:27 - Total Customers FROM sAGE: 1008

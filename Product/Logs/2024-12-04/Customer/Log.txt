@@ -1,0 +1,52 @@
+2024-12-04 21:24:59 - Added customer in Sage a@a.com
+2024-12-04 21:25:01 - Added customer in Sage aa@aa.com
+2024-12-04 21:25:03 - Added customer in Sage aa@sage.com
+2024-12-04 21:25:05 - Added customer in Sage adnan@gmail.com
+2024-12-04 21:25:07 - Added customer in Sage adnanfareed.awan@gmail.com
+2024-12-04 21:25:08 - Added customer in Sage fateh@sage.com
+2024-12-04 21:25:10 - Added customer in Sage flo@email.com
+2024-12-04 21:25:12 - Added customer in Sage flower_woo@email.com
+2024-12-04 21:25:13 - Added customer in Sage mohsen@gmail.com
+2024-12-04 21:25:15 - Added customer in Sage mohsin@sage.com
+2024-12-04 21:25:16 - Added customer in Sage moo@sage.com
+2024-12-04 21:25:18 - Added customer in Sage sage@gmail.com
+2024-12-04 21:25:19 - Added customer in Sage sdd@ggg.com
+2024-12-04 21:25:21 - Added customer in Sage test@gmail.com
+2024-12-04 21:25:22 - Added customer in Sage testUser1@gmail.com
+2024-12-04 21:25:23 - Added customer in Sage tttttt@gmail.com
+2024-12-04 21:25:25 - Added customer in Sage websiteuser@gmail.com
+2024-12-04 21:25:26 - Added customer in Sage xyz@gmail.com
+2024-12-04 21:26:03 - Updating Customer:CUST1419
+2024-12-04 21:26:04 - Updating Customer:CUST1604
+2024-12-04 21:26:05 - Updating Customer:CUST2079
+2024-12-04 21:26:06 - Updating Customer:CUST2138
+2024-12-04 21:26:08 - Updating Customer:CUST2359
+2024-12-04 21:26:09 - Updating Customer:CUST2558
+2024-12-04 21:26:09 - Updating Customer:CUST3784
+2024-12-04 21:26:10 - Updating Customer:CUST3913
+2024-12-04 21:26:11 - Updating Customer:CUST4267
+2024-12-04 21:26:12 - Updating Customer:CUST4473
+2024-12-04 21:26:13 - Updating Customer:CUST4642
+2024-12-04 21:26:14 - Updating Customer:CUST4838
+2024-12-04 21:26:15 - Updating Customer:CUST4842
+2024-12-04 21:26:15 - Updating Customer:CUST5882
+2024-12-04 21:26:16 - Updating Customer:CUST5975
+2024-12-04 21:26:17 - Updating Customer:CUST5980
+2024-12-04 21:26:18 - Updating Customer:CUST6359
+2024-12-04 21:26:19 - Updating Customer:CUST6417
+2024-12-04 21:26:20 - Updating Customer:CUST6430
+2024-12-04 21:26:20 - Updating Customer:CUST6658
+2024-12-04 21:26:21 - Updating Customer:CUST6854
+2024-12-04 21:26:22 - Updating Customer:CUST7018
+2024-12-04 21:26:23 - Updating Customer:CUST7047
+2024-12-04 21:26:24 - Updating Customer:CUST7305
+2024-12-04 21:26:24 - Updating Customer:CUST7748
+2024-12-04 21:26:25 - Updating Customer:CUST7967
+2024-12-04 21:26:26 - Updating Customer:CUST8266
+2024-12-04 21:26:27 - Updating Customer:CUST8747
+2024-12-04 21:26:28 - Updating Customer:CUST9035
+2024-12-04 21:26:29 - Updating Customer:CUST9078
+2024-12-04 21:26:30 - Updating Customer:CUST9389
+2024-12-04 21:26:31 - Updating Customer:CUST9455
+2024-12-04 21:26:32 - Updating Customer:CUST9886
+2024-12-04 21:26:33 - Updating Customer:CUST9949

@@ -1,0 +1,537 @@
+2025-01-21 12:38:37 - Total Customers FROM sAGE: 1008
+2025-01-21 12:41:45 - Error While Adding or Updating Customer:002350-AERROR:Object reference not set to an instance of an object.
+2025-01-21 12:42:14 - Updating Customer:002351-A
+2025-01-21 12:43:34 - Updating Customer:0023512
+2025-01-21 12:43:50 - Updating Customer:002352-A
+2025-01-21 12:44:07 - Updating Customer:002354AG
+2025-01-21 12:44:17 - Updating Customer:002355-A
+2025-01-21 12:46:12 - Total Customers FROM sAGE: 0
+2025-01-21 12:47:11 - Total Customers FROM sAGE: 1008
+2025-01-21 12:47:42 - Updating Customer:002350-A
+2025-01-21 12:47:50 - Updating Customer:002351-A
+2025-01-21 12:47:51 - Updating Customer:0023512
+2025-01-21 12:47:52 - Updating Customer:002352-A
+2025-01-21 12:47:54 - Updating Customer:002354AG
+2025-01-21 12:47:55 - Updating Customer:002355-A
+2025-01-21 12:47:57 - Updating Customer:002355-O
+2025-01-21 12:47:59 - Updating Customer:002356AG
+2025-01-21 12:48:01 - Updating Customer:002357AG
+2025-01-21 12:48:04 - Updating Customer:002358AG
+2025-01-21 12:48:05 - Updating Customer:002360
+2025-01-21 12:48:07 - Updating Customer:011443AG
+2025-01-21 12:48:09 - Updating Customer:011444AG
+2025-01-21 12:48:11 - Updating Customer:013300AG
+2025-01-21 12:48:25 - Adding New Customer:013301AG
+2025-01-21 12:48:51 - Updating Customer:013302AG
+2025-01-21 12:49:05 - Updating Customer:013303AG
+2025-01-21 12:49:07 - Updating Customer:013304AG
+2025-01-21 12:49:10 - Updating Customer:013305AG
+2025-01-21 12:49:11 - Updating Customer:013306AG
+2025-01-21 12:49:12 - Adding New Customer:013309AG
+2025-01-21 12:49:13 - Updating Customer:013310AG
+2025-01-21 12:49:15 - Updating Customer:013311AG
+2025-01-21 12:49:16 - Adding New Customer:013312AG
+2025-01-21 12:49:17 - Updating Customer:013314AG
+2025-01-21 12:49:18 - Updating Customer:013316AG
+2025-01-21 12:49:20 - Updating Customer:013320AG
+2025-01-21 12:49:21 - Adding New Customer:013323AG
+2025-01-21 12:49:21 - Adding New Customer:013324AG
+2025-01-21 12:49:21 - Adding New Customer:013325AG
+2025-01-21 12:49:21 - Adding New Customer:013327AG
+2025-01-21 12:49:21 - Adding New Customer:013329AG
+2025-01-21 12:49:22 - Updating Customer:013330AG
+2025-01-21 12:49:25 - Updating Customer:013331AG
+2025-01-21 12:49:26 - Adding New Customer:013332AG
+2025-01-21 12:49:27 - Updating Customer:013334AG
+2025-01-21 12:49:28 - Adding New Customer:013335AG
+2025-01-21 12:49:28 - Adding New Customer:013336AG
+2025-01-21 12:49:29 - Updating Customer:013337AG
+2025-01-21 12:49:31 - Updating Customer:013338AG
+2025-01-21 12:50:18 - Error While Adding or Updating Customer:013339AGERROR:{"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+2025-01-21 12:51:12 - Adding New Customer:013339AG
+2025-01-21 12:51:12 - Adding New Customer:013340-O
+2025-01-21 12:51:13 - Adding New Customer:013341AG
+2025-01-21 12:51:14 - Updating Customer:013342AD
+2025-01-21 12:51:15 - Updating Customer:013342AG
+2025-01-21 12:52:01 - Updating Customer:013343AD
+2025-01-21 12:52:03 - Updating Customer:013343AG
+2025-01-21 12:52:04 - Updating Customer:013344AD
+2025-01-21 12:52:05 - Updating Customer:013344AG
+2025-01-21 12:52:07 - Updating Customer:013345AD
+2025-01-21 12:52:08 - Updating Customer:013345AG
+2025-01-21 12:52:10 - Updating Customer:013346AD
+2025-01-21 12:52:11 - Updating Customer:013346AG
+2025-01-21 12:52:12 - Updating Customer:013348AD
+2025-01-21 12:52:14 - Updating Customer:013348AG
+2025-01-21 12:52:17 - Updating Customer:013349AG
+2025-01-21 12:52:19 - Updating Customer:013351AD
+2025-01-21 12:52:21 - Updating Customer:013351AG
+2025-01-21 12:52:23 - Updating Customer:013352AD
+2025-01-21 12:52:25 - Updating Customer:013352AG
+2025-01-21 12:52:27 - Adding New Customer:013353AG
+2025-01-21 12:52:30 - Updating Customer:013354AG
+2025-01-21 12:52:31 - Adding New Customer:013356AG
+2025-01-21 12:52:31 - Adding New Customer:013364AG
+2025-01-21 12:52:31 - Adding New Customer:013365AG
+2025-01-21 12:52:33 - Updating Customer:013366AG
+2025-01-21 12:52:35 - Updating Customer:013368AG
+2025-01-21 12:52:48 - Adding New Customer:013370AG
+2025-01-21 12:53:01 - Adding New Customer:013371AG
+2025-01-21 12:53:02 - Adding New Customer:013374AG
+2025-01-21 12:53:03 - Updating Customer:013375AG
+2025-01-21 12:53:03 - Adding New Customer:013377AG
+2025-01-21 12:53:04 - Updating Customer:013378AG
+2025-01-21 12:53:06 - Adding New Customer:013379AG
+2025-01-21 12:53:07 - Updating Customer:013382AG
+2025-01-21 12:53:09 - Adding New Customer:013383AG
+2025-01-21 12:53:09 - Adding New Customer:013384AG
+2025-01-21 12:53:09 - Adding New Customer:013385AG
+2025-01-21 12:53:09 - Adding New Customer:013386AG
+2025-01-21 12:53:09 - Adding New Customer:013389AG
+2025-01-21 12:53:09 - Adding New Customer:013391AG
+2025-01-21 12:53:09 - Adding New Customer:013392AG
+2025-01-21 12:53:10 - Updating Customer:013393AD
+2025-01-21 12:53:12 - Updating Customer:013393AG
+2025-01-21 12:53:14 - Adding New Customer:013394AG
+2025-01-21 12:53:15 - Updating Customer:013395-R
+2025-01-21 12:53:16 - Adding New Customer:013396AG
+2025-01-21 12:53:17 - Updating Customer:013397AG
+2025-01-21 12:53:19 - Adding New Customer:013399AG
+2025-01-21 12:53:19 - Adding New Customer:013402AG
+2025-01-21 12:53:19 - Updating Customer:013404AG
+2025-01-21 12:53:20 - Adding New Customer:013405AG
+2025-01-21 12:53:20 - Adding New Customer:013406AG
+2025-01-21 12:53:20 - Adding New Customer:013407AG
+2025-01-21 12:53:20 - Adding New Customer:013411AG
+2025-01-21 12:53:21 - Adding New Customer:013412AG
+2025-01-21 12:53:21 - Adding New Customer:013413AG
+2025-01-21 12:53:26 - Adding New Customer:013414AG
+2025-01-21 12:53:26 - Adding New Customer:013415AG
+2025-01-21 12:53:27 - Updating Customer:013416AG
+2025-01-21 12:53:30 - Updating Customer:013417AG
+2025-01-21 12:53:32 - Adding New Customer:013418AG
+2025-01-21 12:53:32 - Adding New Customer:013419AG
+2025-01-21 12:53:34 - Updating Customer:013420AG
+2025-01-21 12:53:36 - Updating Customer:013423AG
+2025-01-21 12:53:37 - Adding New Customer:013425AG
+2025-01-21 12:53:37 - Adding New Customer:013426AG
+2025-01-21 12:53:38 - Updating Customer:013427AG
+2025-01-21 12:53:39 - Adding New Customer:013431AG
+2025-01-21 12:53:40 - Updating Customer:013432AG
+2025-01-21 12:53:41 - Adding New Customer:013433AG
+2025-01-21 12:53:41 - Updating Customer:013434AG
+2025-01-21 12:53:42 - Adding New Customer:013436AG
+2025-01-21 12:53:44 - Updating Customer:013438AG
+2025-01-21 12:53:57 - Adding New Customer:013440AG
+2025-01-21 12:54:10 - Updating Customer:013441AG
+2025-01-21 12:54:11 - Updating Customer:013445AG
+2025-01-21 12:54:12 - Adding New Customer:013447AG
+2025-01-21 12:54:13 - Adding New Customer:013448AG
+2025-01-21 12:54:14 - Adding New Customer:013450AG
+2025-01-21 12:54:16 - Updating Customer:013451AG
+2025-01-21 12:54:20 - Updating Customer:013452AD
+2025-01-21 12:54:21 - Updating Customer:013452AG
+2025-01-21 12:54:21 - Adding New Customer:013453AG
+2025-01-21 12:54:23 - Updating Customer:013454AG
+2025-01-21 12:54:25 - Adding New Customer:013456AG
+2025-01-21 12:54:26 - Adding New Customer:013457AG
+2025-01-21 12:54:27 - Updating Customer:013458AG
+2025-01-21 12:54:29 - Updating Customer:013459AG
+2025-01-21 12:54:31 - Updating Customer:013460AG
+2025-01-21 12:54:33 - Updating Customer:013461AG
+2025-01-21 12:54:35 - Updating Customer:013462AG
+2025-01-21 12:54:36 - Updating Customer:013463AG
+2025-01-21 12:54:39 - Adding New Customer:013464AG
+2025-01-21 12:54:39 - Adding New Customer:013465AG
+2025-01-21 12:54:41 - Adding New Customer:013466AG
+2025-01-21 12:54:41 - Adding New Customer:013467AG
+2025-01-21 12:54:41 - Adding New Customer:013468AG
+2025-01-21 12:54:41 - Adding New Customer:013469AG
+2025-01-21 12:54:42 - Updating Customer:013497AG
+2025-01-21 12:54:44 - Updating Customer:013498AG
+2025-01-21 12:54:45 - Adding New Customer:013499AG
+2025-01-21 12:54:46 - Updating Customer:013500AG
+2025-01-21 12:54:48 - Updating Customer:013501AG
+2025-01-21 12:54:49 - Adding New Customer:013502AG
+2025-01-21 12:54:50 - Adding New Customer:013503AG
+2025-01-21 12:54:51 - Adding New Customer:013504AG
+2025-01-21 12:54:51 - Adding New Customer:013505AG
+2025-01-21 12:54:51 - Adding New Customer:013506AG
+2025-01-21 12:54:52 - Adding New Customer:013507AG
+2025-01-21 12:54:53 - Updating Customer:013508AG
+2025-01-21 12:54:54 - Adding New Customer:013509-D
+2025-01-21 12:54:54 - Adding New Customer:02269D
+2025-01-21 12:55:07 - Adding New Customer:02351AG
+2025-01-21 12:55:08 - Adding New Customer:02355-O
+2025-01-21 12:55:08 - Adding New Customer:03348-R
+2025-01-21 12:55:10 - Updating Customer:034003AG
+2025-01-21 12:55:10 - Adding New Customer:034012AG
+2025-01-21 12:55:11 - Adding New Customer:034018AG
+2025-01-21 12:55:11 - Adding New Customer:034023A1
+2025-01-21 12:55:13 - Updating Customer:034023AG
+2025-01-21 12:55:14 - Adding New Customer:034024AG
+2025-01-21 12:55:15 - Updating Customer:034025AG
+2025-01-21 12:55:17 - Adding New Customer:034026AG
+2025-01-21 12:55:18 - Updating Customer:034027AG
+2025-01-21 12:55:19 - Adding New Customer:034028AG
+2025-01-21 12:55:20 - Updating Customer:034029AG
+2025-01-21 12:55:21 - Updating Customer:034030A1
+2025-01-21 12:55:22 - Adding New Customer:034030AG
+2025-01-21 12:55:23 - Updating Customer:034031AG
+2025-01-21 12:55:24 - Adding New Customer:034032AG
+2025-01-21 12:55:25 - Adding New Customer:034033AG
+2025-01-21 12:55:25 - Adding New Customer:034034AG
+2025-01-21 12:55:26 - Updating Customer:034035AG
+2025-01-21 12:55:27 - Adding New Customer:034036AG
+2025-01-21 12:55:27 - Adding New Customer:034037AG
+2025-01-21 12:55:28 - Adding New Customer:034038AG
+2025-01-21 12:55:29 - Updating Customer:034039AG
+2025-01-21 12:55:30 - Updating Customer:034041AD
+2025-01-21 12:55:32 - Updating Customer:034041AG
+2025-01-21 12:55:33 - Adding New Customer:034042AG
+2025-01-21 12:55:34 - Updating Customer:034043AG
+2025-01-21 12:55:36 - Updating Customer:034044AG
+2025-01-21 12:55:37 - Adding New Customer:034045AG
+2025-01-21 12:55:38 - Updating Customer:034046AG
+2025-01-21 12:55:41 - Updating Customer:034047AG
+2025-01-21 12:55:42 - Adding New Customer:034048AG
+2025-01-21 12:55:44 - Updating Customer:034049AG
+2025-01-21 12:55:46 - Updating Customer:034050AG
+2025-01-21 12:55:48 - Updating Customer:034051AG
+2025-01-21 12:55:50 - Updating Customer:034052AG
+2025-01-21 12:55:51 - Adding New Customer:034053AG
+2025-01-21 12:55:52 - Updating Customer:034054AG
+2025-01-21 12:55:54 - Updating Customer:034055AG
+2025-01-21 12:55:55 - Updating Customer:034056AG
+2025-01-21 12:55:57 - Updating Customer:034057AG
+2025-01-21 12:55:58 - Adding New Customer:034058AG
+2025-01-21 12:56:11 - Adding New Customer:034059AG
+2025-01-21 12:56:12 - Updating Customer:034060AD
+2025-01-21 12:56:14 - Updating Customer:034060AG
+2025-01-21 12:56:15 - Updating Customer:034061AD
+2025-01-21 12:56:16 - Updating Customer:034061AG
+2025-01-21 12:56:18 - Updating Customer:034062AG
+2025-01-21 12:56:21 - Adding New Customer:034063AG
+2025-01-21 12:56:22 - Updating Customer:034064AG
+2025-01-21 12:56:24 - Updating Customer:034065AG
+2025-01-21 12:56:26 - Updating Customer:034066AG
+2025-01-21 12:56:27 - Updating Customer:034067AG
+2025-01-21 12:56:30 - Updating Customer:034068AG
+2025-01-21 12:56:32 - Updating Customer:034069AG
+2025-01-21 12:56:34 - Updating Customer:034070AG
+2025-01-21 12:56:36 - Updating Customer:034071AG
+2025-01-21 12:56:38 - Updating Customer:034072AG
+2025-01-21 12:56:39 - Updating Customer:034073AG
+2025-01-21 12:56:41 - Adding New Customer:034074AG
+2025-01-21 12:56:42 - Adding New Customer:034075AG
+2025-01-21 12:56:44 - Updating Customer:034076AG
+2025-01-21 12:56:46 - Updating Customer:034077AG
+2025-01-21 12:56:48 - Updating Customer:034078AG
+2025-01-21 12:56:48 - Adding New Customer:034079AG
+2025-01-21 12:56:49 - Updating Customer:034080AG
+2025-01-21 12:56:52 - Updating Customer:034081AG
+2025-01-21 12:56:53 - Adding New Customer:034082AG
+2025-01-21 12:56:53 - Adding New Customer:034083AG
+2025-01-21 12:57:06 - Adding New Customer:034084AG
+2025-01-21 12:57:19 - Updating Customer:034085AG
+2025-01-21 12:57:32 - Adding New Customer:034086AG
+2025-01-21 12:57:43 - Adding New Customer:034087AG
+2025-01-21 12:57:44 - Updating Customer:034088AG
+2025-01-21 12:57:47 - Adding New Customer:034089AG
+2025-01-21 12:57:48 - Updating Customer:034090AG
+2025-01-21 12:57:50 - Updating Customer:034091AG
+2025-01-21 12:57:52 - Adding New Customer:034092AG
+2025-01-21 12:57:53 - Updating Customer:034093AG
+2025-01-21 12:57:54 - Updating Customer:034094AG
+2025-01-21 12:57:56 - Adding New Customer:034095AG
+2025-01-21 12:57:57 - Updating Customer:034096AG
+2025-01-21 12:57:59 - Adding New Customer:034098AG
+2025-01-21 12:58:00 - Updating Customer:034099AG
+2025-01-21 12:58:02 - Updating Customer:034100AG
+2025-01-21 12:58:04 - Adding New Customer:034101AG
+2025-01-21 12:58:04 - Adding New Customer:034102AG
+2025-01-21 12:58:05 - Updating Customer:034103AG
+2025-01-21 12:58:07 - Updating Customer:034104AG
+2025-01-21 12:58:08 - Updating Customer:034105AG
+2025-01-21 12:58:10 - Updating Customer:034106AG
+2025-01-21 12:58:23 - Adding New Customer:034107AG
+2025-01-21 12:58:37 - Adding New Customer:034108AG
+2025-01-21 12:58:37 - Adding New Customer:034109AG
+2025-01-21 12:58:38 - Updating Customer:034110AG
+2025-01-21 12:58:39 - Adding New Customer:034111AG
+2025-01-21 12:58:39 - Updating Customer:034112AG
+2025-01-21 12:58:41 - Updating Customer:034113AG
+2025-01-21 12:58:43 - Adding New Customer:034114AG
+2025-01-21 12:58:44 - Updating Customer:034115AG
+2025-01-21 12:58:47 - Updating Customer:034116AG
+2025-01-21 12:58:49 - Updating Customer:034117AG
+2025-01-21 12:58:52 - Updating Customer:034118AG
+2025-01-21 12:58:53 - Updating Customer:034119AG
+2025-01-21 12:58:55 - Updating Customer:034120AG
+2025-01-21 12:58:58 - Updating Customer:034121AG
+2025-01-21 12:59:00 - Updating Customer:034122AG
+2025-01-21 12:59:02 - Adding New Customer:034123AG
+2025-01-21 12:59:03 - Updating Customer:034124AG
+2025-01-21 12:59:04 - Adding New Customer:034125AG
+2025-01-21 12:59:04 - Adding New Customer:034126AG
+2025-01-21 12:59:04 - Adding New Customer:034127AG
+2025-01-21 12:59:04 - Adding New Customer:034128-C
+2025-01-21 12:59:04 - Adding New Customer:034128AG
+2025-01-21 12:59:04 - Adding New Customer:034129AG
+2025-01-21 12:59:05 - Adding New Customer:034130AG
+2025-01-21 12:59:05 - Adding New Customer:034131AG
+2025-01-21 12:59:06 - Updating Customer:034132AG
+2025-01-21 12:59:07 - Updating Customer:034133AG
+2025-01-21 12:59:08 - Updating Customer:034134AG
+2025-01-21 12:59:10 - Updating Customer:034135AG
+2025-01-21 12:59:12 - Updating Customer:034136AG
+2025-01-21 12:59:13 - Updating Customer:034137AG
+2025-01-21 12:59:14 - Adding New Customer:034138AG
+2025-01-21 12:59:16 - Updating Customer:034140AG
+2025-01-21 12:59:17 - Adding New Customer:034141AG
+2025-01-21 12:59:18 - Adding New Customer:034142AG
+2025-01-21 12:59:20 - Adding New Customer:034143AG
+2025-01-21 12:59:21 - Updating Customer:034144AG
+2025-01-21 12:59:24 - Adding New Customer:034145AG
+2025-01-21 12:59:26 - Updating Customer:034146AG
+2025-01-21 12:59:29 - Updating Customer:034147AG
+2025-01-21 12:59:30 - Adding New Customer:034148AG
+2025-01-21 12:59:30 - Adding New Customer:034149AG
+2025-01-21 12:59:31 - Updating Customer:034150AG
+2025-01-21 12:59:34 - Updating Customer:034151AG
+2025-01-21 12:59:35 - Updating Customer:034152AG
+2025-01-21 12:59:37 - Updating Customer:034153AG
+2025-01-21 12:59:38 - Adding New Customer:034154AG
+2025-01-21 12:59:38 - Adding New Customer:034155AG
+2025-01-21 12:59:39 - Updating Customer:034156AG
+2025-01-21 12:59:41 - Updating Customer:034157AG
+2025-01-21 12:59:43 - Updating Customer:034158AG
+2025-01-21 12:59:45 - Updating Customer:034159AG
+2025-01-21 12:59:46 - Updating Customer:034160AG
+2025-01-21 12:59:48 - Adding New Customer:034161AG
+2025-01-21 12:59:49 - Adding New Customer:034162AG
+2025-01-21 12:59:49 - Adding New Customer:034163AG
+2025-01-21 12:59:50 - Updating Customer:034164
+2025-01-21 12:59:52 - Updating Customer:034164AG
+2025-01-21 12:59:54 - Updating Customer:034165AG
+2025-01-21 12:59:56 - Adding New Customer:034166AG
+2025-01-21 12:59:56 - Adding New Customer:034167AG
+2025-01-21 12:59:58 - Updating Customer:034168AG
+2025-01-21 12:59:59 - Adding New Customer:034169AG
+2025-01-21 13:00:02 - Updating Customer:034170AG
+2025-01-21 13:00:04 - Updating Customer:034171AG
+2025-01-21 13:00:07 - Updating Customer:034172AG
+2025-01-21 13:00:09 - Adding New Customer:034173AG
+2025-01-21 13:00:10 - Updating Customer:034174AG
+2025-01-21 13:00:12 - Updating Customer:034175AG
+2025-01-21 13:00:14 - Updating Customer:034176AG
+2025-01-21 13:00:15 - Adding New Customer:034177AG
+2025-01-21 13:00:16 - Updating Customer:034178AG
+2025-01-21 13:00:17 - Updating Customer:034179AG
+2025-01-21 13:00:19 - Updating Customer:034180AG
+2025-01-21 13:00:20 - Adding New Customer:034181AG
+2025-01-21 13:00:20 - Updating Customer:034182AG
+2025-01-21 13:00:21 - Adding New Customer:034183AG
+2025-01-21 13:00:22 - Updating Customer:034184AG
+2025-01-21 13:00:24 - Adding New Customer:034185AG
+2025-01-21 13:00:25 - Updating Customer:034186AG
+2025-01-21 13:00:27 - Updating Customer:034187AG
+2025-01-21 13:00:28 - Updating Customer:034188AG
+2025-01-21 13:00:31 - Adding New Customer:034189AG
+2025-01-21 13:00:34 - Adding New Customer:034190AG
+2025-01-21 13:00:34 - Adding New Customer:034191AG
+2025-01-21 13:00:35 - Updating Customer:034192AG
+2025-01-21 13:00:37 - Adding New Customer:034193AG
+2025-01-21 13:00:37 - Adding New Customer:034194AG
+2025-01-21 13:00:38 - Adding New Customer:034195AG
+2025-01-21 13:00:39 - Adding New Customer:034196AG
+2025-01-21 13:00:40 - Updating Customer:034197AG
+2025-01-21 13:00:42 - Updating Customer:034198AG
+2025-01-21 13:00:43 - Adding New Customer:034199AG
+2025-01-21 13:00:44 - Updating Customer:034200AG
+2025-01-21 13:00:46 - Updating Customer:034201AG
+2025-01-21 13:00:48 - Adding New Customer:034202AG
+2025-01-21 13:00:48 - Adding New Customer:034203AG
+2025-01-21 13:00:48 - Updating Customer:034204AG
+2025-01-21 13:00:51 - Adding New Customer:034205AG
+2025-01-21 13:00:52 - Updating Customer:034206AG
+2025-01-21 13:00:52 - Adding New Customer:034207AG
+2025-01-21 13:00:53 - Updating Customer:034208AG
+2025-01-21 13:00:56 - Updating Customer:034209AG
+2025-01-21 13:00:58 - Updating Customer:034210AG
+2025-01-21 13:01:00 - Updating Customer:034211AG
+2025-01-21 13:01:01 - Adding New Customer:034212AG
+2025-01-21 13:01:02 - Adding New Customer:034213AG
+2025-01-21 13:01:03 - Updating Customer:034214AG
+2025-01-21 13:01:05 - Updating Customer:034215AG
+2025-01-21 13:01:07 - Updating Customer:034216AG
+2025-01-21 13:01:09 - Updating Customer:034217AG
+2025-01-21 13:01:11 - Updating Customer:034218AG
+2025-01-21 13:01:12 - Updating Customer:034219AG
+2025-01-21 13:01:14 - Adding New Customer:034220AG
+2025-01-21 13:01:15 - Updating Customer:034221AG
+2025-01-21 13:01:17 - Adding New Customer:034222AG
+2025-01-21 13:01:18 - Adding New Customer:034223AG
+2025-01-21 13:01:18 - Updating Customer:034224AG
+2025-01-21 13:01:20 - Updating Customer:034225AG
+2025-01-21 13:01:21 - Updating Customer:034226AG
+2025-01-21 13:01:23 - Updating Customer:034227AG
+2025-01-21 13:01:31 - Adding New Customer:034228AG
+2025-01-21 13:01:32 - Updating Customer:034229AG
+2025-01-21 13:01:35 - Updating Customer:034230AG
+2025-01-21 13:01:38 - Updating Customer:034240AG
+2025-01-21 13:01:39 - Updating Customer:034241AG
+2025-01-21 13:01:41 - Updating Customer:034242AG
+2025-01-21 13:01:42 - Updating Customer:034243AG
+2025-01-21 13:01:43 - Adding New Customer:034244AG
+2025-01-21 13:01:45 - Updating Customer:034245AG
+2025-01-21 13:01:46 - Adding New Customer:034246AG
+2025-01-21 13:01:46 - Adding New Customer:034247AG
+2025-01-21 13:01:47 - Updating Customer:034248AG
+2025-01-21 13:01:50 - Updating Customer:034249AG
+2025-01-21 13:01:52 - Updating Customer:034250AG
+2025-01-21 13:01:54 - Updating Customer:034251AG
+2025-01-21 13:01:58 - Updating Customer:034252AG
+2025-01-21 13:01:59 - Adding New Customer:034253AG
+2025-01-21 13:02:00 - Updating Customer:034254AG
+2025-01-21 13:02:02 - Adding New Customer:034255AG
+2025-01-21 13:02:03 - Adding New Customer:034256AG
+2025-01-21 13:02:04 - Updating Customer:034257AG
+2025-01-21 13:02:06 - Adding New Customer:034258AG
+2025-01-21 13:02:06 - Updating Customer:034259AG
+2025-01-21 13:02:08 - Updating Customer:034260AG
+2025-01-21 13:02:10 - Adding New Customer:034261AG
+2025-01-21 13:02:11 - Updating Customer:034262AG
+2025-01-21 13:02:12 - Updating Customer:034263AG
+2025-01-21 13:02:13 - Updating Customer:034264AG
+2025-01-21 13:02:18 - Updating Customer:034265AG
+2025-01-21 13:02:19 - Updating Customer:034267AG
+2025-01-21 13:02:21 - Updating Customer:034268AG
+2025-01-21 13:02:22 - Adding New Customer:034269AG
+2025-01-21 13:02:22 - Adding New Customer:034270AG
+2025-01-21 13:02:24 - Updating Customer:034271AG
+2025-01-21 13:02:26 - Updating Customer:034272AG
+2025-01-21 13:02:28 - Updating Customer:034273AG
+2025-01-21 13:02:30 - Updating Customer:034274AG
+2025-01-21 13:02:32 - Adding New Customer:034275AG
+2025-01-21 13:02:33 - Updating Customer:034276AG
+2025-01-21 13:02:34 - Updating Customer:034277AG
+2025-01-21 13:02:36 - Updating Customer:034278AG
+2025-01-21 13:02:39 - Updating Customer:034279AG
+2025-01-21 13:02:40 - Updating Customer:034280AG
+2025-01-21 13:02:42 - Updating Customer:034281AG
+2025-01-21 13:02:43 - Adding New Customer:034282AG
+2025-01-21 13:02:43 - Updating Customer:034283AG
+2025-01-21 13:02:45 - Updating Customer:034284AG
+2025-01-21 13:02:48 - Updating Customer:034285AG
+2025-01-21 13:02:49 - Updating Customer:034286AG
+2025-01-21 13:02:50 - Adding New Customer:034287AG
+2025-01-21 13:02:50 - Adding New Customer:034288AG
+2025-01-21 13:02:50 - Adding New Customer:034289AG
+2025-01-21 13:02:52 - Updating Customer:03428AG
+2025-01-21 13:02:54 - Updating Customer:034290AG
+2025-01-21 13:02:55 - Updating Customer:034291AG
+2025-01-21 13:02:56 - Updating Customer:034292AG
+2025-01-21 13:02:58 - Updating Customer:034293AG
+2025-01-21 13:02:59 - Updating Customer:034294AG
+2025-01-21 13:03:00 - Updating Customer:034295AG
+2025-01-21 13:03:02 - Updating Customer:034296AG
+2025-01-21 13:03:04 - Updating Customer:034297AG
+2025-01-21 13:03:05 - Updating Customer:034298AG
+2025-01-21 13:03:07 - Updating Customer:034299AG
+2025-01-21 13:03:09 - Updating Customer:034300AG
+2025-01-21 13:03:11 - Updating Customer:034301AG
+2025-01-21 13:03:13 - Updating Customer:034302AG
+2025-01-21 13:03:15 - Updating Customer:034303AG
+2025-01-21 13:03:17 - Adding New Customer:034304AG
+2025-01-21 13:03:17 - Adding New Customer:034305AG
+2025-01-21 13:03:18 - Updating Customer:034306AG
+2025-01-21 13:03:19 - Updating Customer:034307AG
+2025-01-21 13:03:22 - Updating Customer:034308AG
+2025-01-21 13:03:23 - Adding New Customer:034309AG
+2025-01-21 13:03:23 - Adding New Customer:034310AG
+2025-01-21 13:03:24 - Updating Customer:034311AG
+2025-01-21 13:03:25 - Updating Customer:034312AG
+2025-01-21 13:03:27 - Updating Customer:034313AG
+2025-01-21 13:03:29 - Updating Customer:034314AG
+2025-01-21 13:03:30 - Adding New Customer:034315AG
+2025-01-21 13:03:31 - Updating Customer:034316AG
+2025-01-21 13:03:34 - Updating Customer:034317AG
+2025-01-21 13:03:35 - Updating Customer:034318AG
+2025-01-21 13:03:36 - Adding New Customer:034319AG
+2025-01-21 13:03:38 - Updating Customer:034320AG
+2025-01-21 13:03:39 - Updating Customer:034321AG
+2025-01-21 13:03:41 - Adding New Customer:034322AG
+2025-01-21 13:03:42 - Updating Customer:034323AG
+2025-01-21 13:03:44 - Updating Customer:034324AG
+2025-01-21 13:03:45 - Updating Customer:034325AG
+2025-01-21 13:03:47 - Updating Customer:034326AG
+2025-01-21 13:03:49 - Updating Customer:034327AG
+2025-01-21 13:03:51 - Updating Customer:034328AG
+2025-01-21 13:03:52 - Updating Customer:034329AG
+2025-01-21 13:03:54 - Updating Customer:034330AG
+2025-01-21 13:03:55 - Updating Customer:034331AG
+2025-01-21 13:03:57 - Updating Customer:034332AG
+2025-01-21 13:03:59 - Updating Customer:034333AG
+2025-01-21 13:04:02 - Updating Customer:034334AG
+2025-01-21 13:04:03 - Updating Customer:034335AG
+2025-01-21 13:04:06 - Adding New Customer:034336AG
+2025-01-21 13:04:11 - Adding New Customer:034337AG
+2025-01-21 13:04:12 - Updating Customer:034338AG
+2025-01-21 13:04:13 - Updating Customer:034339AG
+2025-01-21 13:04:15 - Updating Customer:03434-R
+2025-01-21 13:04:18 - Updating Customer:034340AG
+2025-01-21 13:04:19 - Updating Customer:034341AG
+2025-01-21 13:04:21 - Updating Customer:034342AG
+2025-01-21 13:04:22 - Updating Customer:034343AG
+2025-01-21 13:04:24 - Adding New Customer:034344AG
+2025-01-21 13:04:24 - Updating Customer:034345AG
+2025-01-21 13:04:26 - Updating Customer:034346-R
+2025-01-21 13:04:27 - Updating Customer:034346AG
+2025-01-21 13:04:29 - Updating Customer:034347-R
+2025-01-21 13:04:31 - Updating Customer:034347AG
+2025-01-21 13:04:33 - Updating Customer:034348-R
+2025-01-21 13:04:35 - Updating Customer:034348AG
+2025-01-21 13:04:37 - Updating Customer:034349-R
+2025-01-21 13:04:39 - Updating Customer:034349AG
+2025-01-21 13:04:40 - Updating Customer:034350AG
+2025-01-21 13:04:43 - Updating Customer:034351AG
+2025-01-21 13:04:44 - Adding New Customer:034352AG
+2025-01-21 13:04:45 - Updating Customer:034353AG
+2025-01-21 13:04:46 - Updating Customer:034354AG
+2025-01-21 13:04:48 - Updating Customer:034356AG
+2025-01-21 13:04:51 - Updating Customer:034357AG
+2025-01-21 13:04:52 - Updating Customer:034358AG
+2025-01-21 13:04:54 - Updating Customer:034359AG
+2025-01-21 13:04:55 - Updating Customer:034360AG
+2025-01-21 13:04:57 - Updating Customer:034361AG
+2025-01-21 13:04:58 - Updating Customer:034362AG
+2025-01-21 13:05:04 - Updating Customer:034363AG
+2025-01-21 13:05:05 - Updating Customer:034364AG
+2025-01-21 13:05:07 - Updating Customer:034365AG
+2025-01-21 13:05:09 - Updating Customer:034367-H
+2025-01-21 13:05:10 - Updating Customer:034367AG
+2025-01-21 13:05:11 - Updating Customer:034368-H
+2025-01-21 13:05:12 - Updating Customer:034368AG
+2025-01-21 13:05:14 - Updating Customer:034370AG
+2025-01-21 13:05:16 - Updating Customer:034371AG
+2025-01-21 13:05:17 - Updating Customer:034372AG
+2025-01-21 13:05:19 - Adding New Customer:034373AG
+2025-01-21 13:05:22 - Updating Customer:034374AG
+2025-01-21 13:05:23 - Updating Customer:034375AG
+2025-01-21 13:05:24 - Updating Customer:034376AG
+2025-01-21 13:05:42 - Updating Customer:034377AG
+2025-01-21 13:06:03 - Updating Customer:034378AG
+2025-01-21 13:06:04 - Updating Customer:034379AG
+2025-01-21 13:06:05 - Adding New Customer:034380AG
+2025-01-21 13:06:06 - Updating Customer:034381AG
+2025-01-21 13:06:15 - Updating Customer:034382AG
+2025-01-21 13:06:18 - Updating Customer:034383AG
+2025-01-21 13:06:20 - Updating Customer:034384AG
+2025-01-21 13:06:21 - Updating Customer:034386AG
+2025-01-21 13:06:21 - Updating Customer:034387AG
+2025-01-21 13:06:23 - Adding New Customer:034388AG
+2025-01-21 13:06:25 - Adding New Customer:034389AG
+2025-01-21 13:06:26 - Updating Customer:034390AG
+2025-01-21 13:06:27 - Updating Customer:034391AG
+2025-01-21 13:06:29 - Updating Customer:034392AG

@@ -1,0 +1,48 @@
+2024-12-26 10:08:34 - Total Orders from Sage: 411
+2024-12-26 10:28:03 - Total Orders from WOO: 11
+2024-12-26 10:28:05 - Mapping WooCommerce Order to Sage: 10717
+2024-12-26 10:28:05 - Mapped Sage Order Record: 10717
+2024-12-26 10:28:07 - Mapping WooCommerce Order to Sage: 10716
+2024-12-26 10:28:08 - Mapped Sage Order Record: 10716
+2024-12-26 10:28:09 - Mapping WooCommerce Order to Sage: 10715
+2024-12-26 10:28:09 - Mapped Sage Order Record: 10715
+2024-12-26 10:28:11 - Mapping WooCommerce Order to Sage: 10714
+2024-12-26 10:28:11 - Mapped Sage Order Record: 10714
+2024-12-26 10:28:13 - Mapping WooCommerce Order to Sage: 10713
+2024-12-26 10:28:13 - Mapped Sage Order Record: 10713
+2024-12-26 10:28:15 - Mapping WooCommerce Order to Sage: 10712
+2024-12-26 10:28:15 - Mapped Sage Order Record: 10712
+2024-12-26 10:28:17 - Mapping WooCommerce Order to Sage: 10711
+2024-12-26 10:28:18 - Mapped Sage Order Record: 10711
+2024-12-26 10:28:20 - Mapping WooCommerce Order to Sage: 10710
+2024-12-26 10:28:20 - Mapped Sage Order Record: 10710
+2024-12-26 10:28:22 - Mapping WooCommerce Order to Sage: 10709
+2024-12-26 10:28:22 - Mapped Sage Order Record: 10709
+2024-12-26 10:28:24 - Mapping WooCommerce Order to Sage: 10708
+2024-12-26 10:28:24 - Mapped Sage Order Record: 10708
+2024-12-26 10:28:26 - Mapping WooCommerce Order to Sage: 10707
+2024-12-26 10:28:26 - Mapped Sage Order Record: 10707
+2024-12-26 11:16:45 - Total Orders from Sage: 0
+2024-12-26 11:16:51 - Total Orders from WOO: 11
+2024-12-26 11:16:58 - Mapping WooCommerce Order to Sage: 10717
+2024-12-26 11:16:59 - Mapped Sage Order Record: 10717
+2024-12-26 11:17:02 - Mapping WooCommerce Order to Sage: 10716
+2024-12-26 11:17:02 - Mapped Sage Order Record: 10716
+2024-12-26 11:17:04 - Mapping WooCommerce Order to Sage: 10715
+2024-12-26 11:17:04 - Mapped Sage Order Record: 10715
+2024-12-26 11:17:06 - Mapping WooCommerce Order to Sage: 10714
+2024-12-26 11:17:06 - Mapped Sage Order Record: 10714
+2024-12-26 11:17:08 - Mapping WooCommerce Order to Sage: 10713
+2024-12-26 11:17:09 - Mapped Sage Order Record: 10713
+2024-12-26 11:17:11 - Mapping WooCommerce Order to Sage: 10712
+2024-12-26 11:17:11 - Mapped Sage Order Record: 10712
+2024-12-26 11:17:14 - Mapping WooCommerce Order to Sage: 10711
+2024-12-26 11:17:14 - Mapped Sage Order Record: 10711
+2024-12-26 11:17:16 - Mapping WooCommerce Order to Sage: 10710
+2024-12-26 11:17:16 - Mapped Sage Order Record: 10710
+2024-12-26 11:17:33 - Mapping WooCommerce Order to Sage: 10709
+2024-12-26 11:17:33 - Mapped Sage Order Record: 10709
+2024-12-26 11:17:37 - Mapping WooCommerce Order to Sage: 10708
+2024-12-26 11:17:37 - Mapped Sage Order Record: 10708
+2024-12-26 11:17:39 - Mapping WooCommerce Order to Sage: 10707
+2024-12-26 11:17:40 - Mapped Sage Order Record: 10707

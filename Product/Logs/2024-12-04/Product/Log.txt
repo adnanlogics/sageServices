@@ -1,0 +1,39 @@
+2024-12-04 21:26:42 - Mapping WooCommerce Product to Sage: FLOWERS-WOO
+2024-12-04 21:26:42 - Mapped Sage Stock Record: FLOWERS-WOO
+2024-12-04 21:26:48 - Mapping WooCommerce Product to Sage: FLOWERS
+2024-12-04 21:26:48 - Mapped Sage Stock Record: FLOWERS
+2024-12-04 21:26:50 - Mapping WooCommerce Product to Sage: MO2334
+2024-12-04 21:26:50 - Mapped Sage Stock Record: MO2334
+2024-12-04 21:26:51 - Mapping WooCommerce Product to Sage: FATEH-OLIVES
+2024-12-04 21:26:52 - Mapped Sage Stock Record: FATEH-OLIVES
+2024-12-04 21:26:53 - Mapping WooCommerce Product to Sage: QQ123
+2024-12-04 21:26:54 - Mapped Sage Stock Record: QQ123
+2024-12-04 21:26:55 - Mapping WooCommerce Product to Sage: PRODUCT WEBSITE
+2024-12-04 21:26:55 - Mapped Sage Stock Record: PRODUCT WEBSITE
+2024-12-04 21:26:57 - Mapping WooCommerce Product to Sage: ABC123
+2024-12-04 21:26:57 - Mapped Sage Stock Record: ABC123
+2024-12-04 21:26:59 - Mapping WooCommerce Product to Sage: NEWSTOCK
+2024-12-04 21:26:59 - Mapped Sage Stock Record: NEWSTOCK
+2024-12-04 21:27:02 - Mapping WooCommerce Product to Sage: SAGESTOCK
+2024-12-04 21:27:02 - Mapped Sage Stock Record: SAGESTOCK
+2024-12-04 21:27:04 - Mapping WooCommerce Product to Sage: P1
+2024-12-04 21:27:04 - Mapped Sage Stock Record: P1
+2024-12-04 21:27:06 - Mapping WooCommerce Product to Sage: ADNANP1
+2024-12-04 21:27:06 - Mapped Sage Stock Record: ADNANP1
+2024-12-04 21:27:06 - Getting Products from Sage
+2024-12-04 21:27:20 - Updating Product:ABC123
+2024-12-04 21:27:21 - Updating Product:ADNANP1
+2024-12-04 21:27:23 - Updating Product:FATEH-OLIVES
+2024-12-04 21:27:24 - Updating Product:FLOWERS
+2024-12-04 21:27:26 - Updating Product:FLOWERS-WOO
+2024-12-04 21:27:28 - Updating Product:MO2334
+2024-12-04 21:27:29 - Updating Product:NEWSTOCK
+2024-12-04 21:27:31 - Updating Product:P1
+2024-12-04 21:27:33 - Updating Product:PRODUCT WEBSITE
+2024-12-04 21:27:34 - Updating Product:QQ123
+2024-12-04 21:27:36 - Updating Product:SAGESTOCK
+2024-12-04 21:27:39 - Error while getting products from sage Error: Not a legal OleAut date.
+2024-12-04 22:37:07 - Error while getting products from sage Error: Not a legal OleAut date.
+2024-12-04 22:38:35 - Error while getting products from sage Error: Not a legal OleAut date.
+2024-12-04 22:39:38 - Error while getting products from sage Error: Not a legal OleAut date.
+2024-12-04 22:41:26 - Error while getting products from sage Error: Not a legal OleAut date.

@@ -1,0 +1,1580 @@
+2024-12-25 12:40:03 - An error occurred while sending the request.
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 12:40:46 - {"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 12:41:15 - {"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 12:41:18 - {"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 12:41:22 - {"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 12:41:27 - {"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 12:41:27 - {"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 12:41:33 - {"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 12:41:54 - {"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 12:42:02 - {"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 12:42:02 - {"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 12:42:09 - {"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 12:42:15 - {"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 12:42:18 - {"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 12:42:27 - {"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 12:42:28 - {"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 12:42:34 - {"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 12:42:43 - {"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 12:43:57 - {"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 12:44:06 - {"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 12:44:19 - {"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 12:44:22 - {"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 12:44:33 - {"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 12:44:40 - {"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 12:44:48 - {"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 12:44:55 - {"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 12:44:59 - {"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 12:45:01 - {"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 12:45:04 - {"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 12:45:07 - {"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 12:45:13 - {"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 12:45:21 - {"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 12:45:22 - {"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 12:45:43 - {"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 12:46:08 - {"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 12:47:04 - {"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 12:47:33 - {"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 12:47:42 - {"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 12:48:12 - {"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 12:53:33 - Error adding product: Invalid value specified
+   at SageIntegration.SageRepository.Product.ProductRepository.AddAsync(Product wooProduct) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\Product\ProductRepository.cs:line 108
+   at SageIntegration.WooServices.WooService.addProdcutWootoSage() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooServices\WooService.cs:line 75
+2024-12-25 12:53:34 - Error adding product: Invalid value specified
+   at SageIntegration.SageRepository.Product.ProductRepository.AddAsync(Product wooProduct) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\Product\ProductRepository.cs:line 108
+   at SageIntegration.WooServices.WooService.addProdcutWootoSage() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooServices\WooService.cs:line 75
+2024-12-25 12:53:34 - Error adding product: Invalid value specified
+   at SageIntegration.SageRepository.Product.ProductRepository.AddAsync(Product wooProduct) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\Product\ProductRepository.cs:line 108
+   at SageIntegration.WooServices.WooService.addProdcutWootoSage() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooServices\WooService.cs:line 75
+2024-12-25 12:53:35 - Error adding product: Invalid value specified
+   at SageIntegration.SageRepository.Product.ProductRepository.AddAsync(Product wooProduct) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\Product\ProductRepository.cs:line 108
+   at SageIntegration.WooServices.WooService.addProdcutWootoSage() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooServices\WooService.cs:line 75
+2024-12-25 12:53:36 - Error adding product: Invalid value specified
+   at SageIntegration.SageRepository.Product.ProductRepository.AddAsync(Product wooProduct) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\Product\ProductRepository.cs:line 108
+   at SageIntegration.WooServices.WooService.addProdcutWootoSage() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooServices\WooService.cs:line 75
+2024-12-25 12:53:36 - Error adding product: Invalid value specified
+   at SageIntegration.SageRepository.Product.ProductRepository.AddAsync(Product wooProduct) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\Product\ProductRepository.cs:line 108
+   at SageIntegration.WooServices.WooService.addProdcutWootoSage() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooServices\WooService.cs:line 75
+2024-12-25 12:53:37 - Error adding product: Invalid value specified
+   at SageIntegration.SageRepository.Product.ProductRepository.AddAsync(Product wooProduct) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\Product\ProductRepository.cs:line 108
+   at SageIntegration.WooServices.WooService.addProdcutWootoSage() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooServices\WooService.cs:line 75
+2024-12-25 12:53:38 - Error adding product: Invalid value specified
+   at SageIntegration.SageRepository.Product.ProductRepository.AddAsync(Product wooProduct) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\Product\ProductRepository.cs:line 108
+   at SageIntegration.WooServices.WooService.addProdcutWootoSage() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooServices\WooService.cs:line 75
+2024-12-25 12:53:38 - Error adding product: Invalid value specified
+   at SageIntegration.SageRepository.Product.ProductRepository.AddAsync(Product wooProduct) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\Product\ProductRepository.cs:line 108
+   at SageIntegration.WooServices.WooService.addProdcutWootoSage() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooServices\WooService.cs:line 75
+2024-12-25 12:53:39 - Error adding product: Invalid value specified
+   at SageIntegration.SageRepository.Product.ProductRepository.AddAsync(Product wooProduct) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\Product\ProductRepository.cs:line 108
+   at SageIntegration.WooServices.WooService.addProdcutWootoSage() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooServices\WooService.cs:line 75
+2024-12-25 12:53:40 - Error adding product: Invalid value specified
+   at SageIntegration.SageRepository.Product.ProductRepository.AddAsync(Product wooProduct) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\Product\ProductRepository.cs:line 108
+   at SageIntegration.WooServices.WooService.addProdcutWootoSage() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooServices\WooService.cs:line 75
+2024-12-25 12:53:40 - Error adding product: Invalid value specified
+   at SageIntegration.SageRepository.Product.ProductRepository.AddAsync(Product wooProduct) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\Product\ProductRepository.cs:line 108
+   at SageIntegration.WooServices.WooService.addProdcutWootoSage() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooServices\WooService.cs:line 75
+2024-12-25 12:53:41 - Error adding product: Invalid value specified
+   at SageIntegration.SageRepository.Product.ProductRepository.AddAsync(Product wooProduct) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\Product\ProductRepository.cs:line 108
+   at SageIntegration.WooServices.WooService.addProdcutWootoSage() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooServices\WooService.cs:line 75
+2024-12-25 12:53:42 - Error adding product: Invalid value specified
+   at SageIntegration.SageRepository.Product.ProductRepository.AddAsync(Product wooProduct) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\Product\ProductRepository.cs:line 108
+   at SageIntegration.WooServices.WooService.addProdcutWootoSage() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooServices\WooService.cs:line 75
+2024-12-25 12:53:42 - Error adding product: Invalid value specified
+   at SageIntegration.SageRepository.Product.ProductRepository.AddAsync(Product wooProduct) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\Product\ProductRepository.cs:line 108
+   at SageIntegration.WooServices.WooService.addProdcutWootoSage() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooServices\WooService.cs:line 75
+2024-12-25 12:53:43 - Error adding product: Invalid value specified
+   at SageIntegration.SageRepository.Product.ProductRepository.AddAsync(Product wooProduct) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\Product\ProductRepository.cs:line 108
+   at SageIntegration.WooServices.WooService.addProdcutWootoSage() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooServices\WooService.cs:line 75
+2024-12-25 12:53:44 - Error adding product: Invalid value specified
+   at SageIntegration.SageRepository.Product.ProductRepository.AddAsync(Product wooProduct) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\Product\ProductRepository.cs:line 108
+   at SageIntegration.WooServices.WooService.addProdcutWootoSage() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooServices\WooService.cs:line 75
+2024-12-25 12:53:44 - Error adding product: Invalid value specified
+   at SageIntegration.SageRepository.Product.ProductRepository.AddAsync(Product wooProduct) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\Product\ProductRepository.cs:line 108
+   at SageIntegration.WooServices.WooService.addProdcutWootoSage() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooServices\WooService.cs:line 75
+2024-12-25 12:53:45 - Error adding product: Invalid value specified
+   at SageIntegration.SageRepository.Product.ProductRepository.AddAsync(Product wooProduct) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\Product\ProductRepository.cs:line 108
+   at SageIntegration.WooServices.WooService.addProdcutWootoSage() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooServices\WooService.cs:line 75
+2024-12-25 12:53:46 - Error adding product: Invalid value specified
+   at SageIntegration.SageRepository.Product.ProductRepository.AddAsync(Product wooProduct) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\Product\ProductRepository.cs:line 108
+   at SageIntegration.WooServices.WooService.addProdcutWootoSage() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooServices\WooService.cs:line 75
+2024-12-25 12:53:46 - Error adding product: Invalid value specified
+   at SageIntegration.SageRepository.Product.ProductRepository.AddAsync(Product wooProduct) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\Product\ProductRepository.cs:line 108
+   at SageIntegration.WooServices.WooService.addProdcutWootoSage() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooServices\WooService.cs:line 75
+2024-12-25 12:53:47 - Error adding product: Invalid value specified
+   at SageIntegration.SageRepository.Product.ProductRepository.AddAsync(Product wooProduct) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\Product\ProductRepository.cs:line 108
+   at SageIntegration.WooServices.WooService.addProdcutWootoSage() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooServices\WooService.cs:line 75
+2024-12-25 12:53:47 - Error adding product: Invalid value specified
+   at SageIntegration.SageRepository.Product.ProductRepository.AddAsync(Product wooProduct) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\Product\ProductRepository.cs:line 108
+   at SageIntegration.WooServices.WooService.addProdcutWootoSage() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooServices\WooService.cs:line 75
+2024-12-25 12:53:48 - Error adding product: Invalid value specified
+   at SageIntegration.SageRepository.Product.ProductRepository.AddAsync(Product wooProduct) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\Product\ProductRepository.cs:line 108
+   at SageIntegration.WooServices.WooService.addProdcutWootoSage() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooServices\WooService.cs:line 75
+2024-12-25 12:53:49 - Error adding product: Invalid value specified
+   at SageIntegration.SageRepository.Product.ProductRepository.AddAsync(Product wooProduct) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\Product\ProductRepository.cs:line 108
+   at SageIntegration.WooServices.WooService.addProdcutWootoSage() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooServices\WooService.cs:line 75
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:18 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43
+2024-12-25 21:07:19 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 234
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 43

@@ -1,0 +1,190 @@
+2024-11-17 01:20:18 - Mapping WooCommerce Product to Sage: MO2334
+2024-11-17 01:20:18 - Mapped Sage Stock Record: MO2334
+2024-11-17 01:20:19 - Mapping WooCommerce Product to Sage: FATEH-OLIVES
+2024-11-17 01:20:19 - Mapped Sage Stock Record: FATEH-OLIVES
+2024-11-17 01:20:20 - Mapping WooCommerce Product to Sage: QQ123
+2024-11-17 01:20:20 - Mapped Sage Stock Record: QQ123
+2024-11-17 01:20:22 - Mapping WooCommerce Product to Sage: PRODUCT WEBSITE
+2024-11-17 01:20:22 - Mapped Sage Stock Record: PRODUCT WEBSITE
+2024-11-17 01:20:22 - Mapping WooCommerce Product to Sage: ABC123
+2024-11-17 01:20:23 - Mapped Sage Stock Record: ABC123
+2024-11-17 01:20:23 - Mapping WooCommerce Product to Sage: NEWSTOCK
+2024-11-17 01:20:23 - Mapped Sage Stock Record: NEWSTOCK
+2024-11-17 01:20:24 - Mapping WooCommerce Product to Sage: SAGESTOCK
+2024-11-17 01:20:24 - Mapped Sage Stock Record: SAGESTOCK
+2024-11-17 01:20:25 - Mapping WooCommerce Product to Sage: P1
+2024-11-17 01:20:25 - Mapped Sage Stock Record: P1
+2024-11-17 01:20:26 - Mapping WooCommerce Product to Sage: ADNANP1
+2024-11-17 01:20:26 - Mapped Sage Stock Record: ADNANP1
+2024-11-17 01:20:26 - Getting Products from Sage
+2024-11-17 01:20:28 - Updating Product:ABC123
+2024-11-17 01:20:29 - Updating Product:ADNANP1
+2024-11-17 01:20:31 - Updating Product:FATEH-OLIVES
+2024-11-17 01:20:32 - Updating Product:MO2334
+2024-11-17 01:20:33 - Updating Product:NEWSTOCK
+2024-11-17 01:20:34 - Updating Product:P1
+2024-11-17 01:20:35 - Updating Product:PRODUCT WEBSITE
+2024-11-17 01:20:36 - Updating Product:QQ123
+2024-11-17 01:20:38 - Updating Product:SAGESTOCK
+2024-11-17 01:20:40 - Error while getting products from sage Error: Not a legal OleAut date.
+2024-11-17 01:26:42 - Mapping WooCommerce Product to Sage: MO2334
+2024-11-17 01:26:42 - Mapped Sage Stock Record: MO2334
+2024-11-17 01:26:43 - Mapping WooCommerce Product to Sage: FATEH-OLIVES
+2024-11-17 01:26:43 - Mapped Sage Stock Record: FATEH-OLIVES
+2024-11-17 01:26:44 - Mapping WooCommerce Product to Sage: QQ123
+2024-11-17 01:26:44 - Mapped Sage Stock Record: QQ123
+2024-11-17 01:26:45 - Mapping WooCommerce Product to Sage: PRODUCT WEBSITE
+2024-11-17 01:26:45 - Mapped Sage Stock Record: PRODUCT WEBSITE
+2024-11-17 01:26:46 - Mapping WooCommerce Product to Sage: ABC123
+2024-11-17 01:26:46 - Mapped Sage Stock Record: ABC123
+2024-11-17 01:26:47 - Mapping WooCommerce Product to Sage: NEWSTOCK
+2024-11-17 01:26:47 - Mapped Sage Stock Record: NEWSTOCK
+2024-11-17 01:26:48 - Mapping WooCommerce Product to Sage: SAGESTOCK
+2024-11-17 01:26:48 - Mapped Sage Stock Record: SAGESTOCK
+2024-11-17 01:26:49 - Mapping WooCommerce Product to Sage: P1
+2024-11-17 01:26:49 - Mapped Sage Stock Record: P1
+2024-11-17 01:26:50 - Mapping WooCommerce Product to Sage: ADNANP1
+2024-11-17 01:26:50 - Mapped Sage Stock Record: ADNANP1
+2024-11-17 01:26:50 - Getting Products from Sage
+2024-11-17 01:26:52 - Updating Product:ABC123
+2024-11-17 01:26:53 - Updating Product:ADNANP1
+2024-11-17 01:26:54 - Updating Product:FATEH-OLIVES
+2024-11-17 01:26:56 - Updating Product:MO2334
+2024-11-17 01:26:57 - Updating Product:NEWSTOCK
+2024-11-17 01:26:58 - Updating Product:P1
+2024-11-17 01:26:59 - Updating Product:PRODUCT WEBSITE
+2024-11-17 01:27:01 - Updating Product:QQ123
+2024-11-17 01:27:02 - Updating Product:SAGESTOCK
+2024-11-17 01:27:04 - Error while getting products from sage Error: Not a legal OleAut date.
+2024-11-17 01:32:17 - Getting Products from Sage
+2024-11-17 01:32:18 - Updating Product:FATEH-OLIVES
+2024-11-17 01:32:20 - Updating Product:MO2334
+2024-11-17 01:37:44 - Getting Products from Sage
+2024-11-17 01:42:49 - Getting Products from Sage
+2024-11-17 01:47:56 - Getting Products from Sage
+2024-11-17 01:53:02 - Getting Products from Sage
+2024-11-17 01:58:07 - Getting Products from Sage
+2024-11-17 02:03:12 - Getting Products from Sage
+2024-11-17 02:08:17 - Getting Products from Sage
+2024-11-17 02:13:24 - Getting Products from Sage
+2024-11-17 02:18:31 - Getting Products from Sage
+2024-11-17 02:23:37 - Getting Products from Sage
+2024-11-17 11:50:07 - Getting Products from Sage
+2024-11-17 11:55:13 - Getting Products from Sage
+2024-11-17 12:00:19 - Getting Products from Sage
+2024-11-17 12:02:35 - Mapping WooCommerce Product to Sage: MO2334
+2024-11-17 12:02:35 - Mapped Sage Stock Record: MO2334
+2024-11-17 12:02:36 - Mapping WooCommerce Product to Sage: FATEH-OLIVES
+2024-11-17 12:02:36 - Mapped Sage Stock Record: FATEH-OLIVES
+2024-11-17 12:02:37 - Mapping WooCommerce Product to Sage: QQ123
+2024-11-17 12:02:37 - Mapped Sage Stock Record: QQ123
+2024-11-17 12:02:38 - Mapping WooCommerce Product to Sage: PRODUCT WEBSITE
+2024-11-17 12:02:38 - Mapped Sage Stock Record: PRODUCT WEBSITE
+2024-11-17 12:02:39 - Mapping WooCommerce Product to Sage: ABC123
+2024-11-17 12:02:39 - Mapped Sage Stock Record: ABC123
+2024-11-17 12:02:40 - Mapping WooCommerce Product to Sage: NEWSTOCK
+2024-11-17 12:02:40 - Mapped Sage Stock Record: NEWSTOCK
+2024-11-17 12:02:41 - Mapping WooCommerce Product to Sage: SAGESTOCK
+2024-11-17 12:02:41 - Mapped Sage Stock Record: SAGESTOCK
+2024-11-17 12:02:42 - Mapping WooCommerce Product to Sage: P1
+2024-11-17 12:02:42 - Mapped Sage Stock Record: P1
+2024-11-17 12:02:43 - Mapping WooCommerce Product to Sage: ADNANP1
+2024-11-17 12:02:43 - Mapped Sage Stock Record: ADNANP1
+2024-11-17 12:02:43 - Getting Products from Sage
+2024-11-17 12:02:45 - Updating Product:ABC123
+2024-11-17 12:02:47 - Updating Product:ADNANP1
+2024-11-17 12:02:48 - Updating Product:FATEH-OLIVES
+2024-11-17 12:02:49 - Updating Product:MO2334
+2024-11-17 12:02:51 - Updating Product:NEWSTOCK
+2024-11-17 12:02:52 - Updating Product:P1
+2024-11-17 12:02:53 - Updating Product:PRODUCT WEBSITE
+2024-11-17 12:02:55 - Updating Product:QQ123
+2024-11-17 12:02:56 - Updating Product:SAGESTOCK
+2024-11-17 12:02:58 - Error while getting products from sage Error: Not a legal OleAut date.
+2024-11-17 12:08:13 - Getting Products from Sage
+2024-11-17 12:08:15 - Updating Product:FATEH-OLIVES
+2024-11-17 12:08:16 - Updating Product:MO2334
+2024-11-17 12:13:46 - Getting Products from Sage
+2024-11-17 12:18:51 - Getting Products from Sage
+2024-11-17 12:23:57 - Getting Products from Sage
+2024-11-17 12:29:03 - Getting Products from Sage
+2024-11-17 12:34:08 - Getting Products from Sage
+2024-11-17 12:41:10 - Mapping WooCommerce Product to Sage: MO2334
+2024-11-17 12:41:10 - Mapped Sage Stock Record: MO2334
+2024-11-17 12:41:10 - Mapping WooCommerce Product to Sage: FATEH-OLIVES
+2024-11-17 12:41:10 - Mapped Sage Stock Record: FATEH-OLIVES
+2024-11-17 12:41:11 - Mapping WooCommerce Product to Sage: QQ123
+2024-11-17 12:41:11 - Mapped Sage Stock Record: QQ123
+2024-11-17 12:41:12 - Mapping WooCommerce Product to Sage: PRODUCT WEBSITE
+2024-11-17 12:41:12 - Mapped Sage Stock Record: PRODUCT WEBSITE
+2024-11-17 12:41:13 - Mapping WooCommerce Product to Sage: ABC123
+2024-11-17 12:41:13 - Mapped Sage Stock Record: ABC123
+2024-11-17 12:41:14 - Mapping WooCommerce Product to Sage: NEWSTOCK
+2024-11-17 12:41:14 - Mapped Sage Stock Record: NEWSTOCK
+2024-11-17 12:41:15 - Mapping WooCommerce Product to Sage: SAGESTOCK
+2024-11-17 12:41:15 - Mapped Sage Stock Record: SAGESTOCK
+2024-11-17 12:41:15 - Mapping WooCommerce Product to Sage: P1
+2024-11-17 12:41:16 - Mapped Sage Stock Record: P1
+2024-11-17 12:41:16 - Mapping WooCommerce Product to Sage: ADNANP1
+2024-11-17 12:41:16 - Mapped Sage Stock Record: ADNANP1
+2024-11-17 12:41:16 - Getting Products from Sage
+2024-11-17 12:41:20 - Updating Product:ABC123
+2024-11-17 12:41:21 - Updating Product:ADNANP1
+2024-11-17 12:41:23 - Updating Product:FATEH-OLIVES
+2024-11-17 12:41:24 - Updating Product:MO2334
+2024-11-17 12:41:25 - Updating Product:NEWSTOCK
+2024-11-17 12:41:27 - Updating Product:P1
+2024-11-17 12:41:28 - Updating Product:PRODUCT WEBSITE
+2024-11-17 12:41:29 - Updating Product:QQ123
+2024-11-17 12:41:31 - Updating Product:SAGESTOCK
+2024-11-17 12:41:33 - Error while getting products from sage Error: Not a legal OleAut date.
+2024-11-17 12:46:51 - Getting Products from Sage
+2024-11-17 12:46:53 - Updating Product:FATEH-OLIVES
+2024-11-17 12:46:54 - Updating Product:MO2334
+2024-11-17 12:52:25 - Getting Products from Sage
+2024-11-17 12:57:30 - Getting Products from Sage
+2024-11-17 13:02:35 - Getting Products from Sage
+2024-11-17 13:06:12 - Getting Products from Sage
+2024-11-17 13:06:17 - Error while getting products from sage Error: Not a legal OleAut date.
+2024-11-17 14:11:59 - Mapping WooCommerce Product to Sage: MO2334
+2024-11-17 14:11:59 - Mapped Sage Stock Record: MO2334
+2024-11-17 14:12:00 - Mapping WooCommerce Product to Sage: FATEH-OLIVES
+2024-11-17 14:12:00 - Mapped Sage Stock Record: FATEH-OLIVES
+2024-11-17 14:12:00 - Mapping WooCommerce Product to Sage: QQ123
+2024-11-17 14:12:00 - Mapped Sage Stock Record: QQ123
+2024-11-17 14:12:01 - Mapping WooCommerce Product to Sage: PRODUCT WEBSITE
+2024-11-17 14:12:01 - Mapped Sage Stock Record: PRODUCT WEBSITE
+2024-11-17 14:12:02 - Mapping WooCommerce Product to Sage: ABC123
+2024-11-17 14:12:02 - Mapped Sage Stock Record: ABC123
+2024-11-17 14:12:03 - Mapping WooCommerce Product to Sage: NEWSTOCK
+2024-11-17 14:12:03 - Mapped Sage Stock Record: NEWSTOCK
+2024-11-17 14:12:04 - Mapping WooCommerce Product to Sage: SAGESTOCK
+2024-11-17 14:12:04 - Mapped Sage Stock Record: SAGESTOCK
+2024-11-17 14:12:05 - Mapping WooCommerce Product to Sage: P1
+2024-11-17 14:12:05 - Mapped Sage Stock Record: P1
+2024-11-17 14:12:05 - Mapping WooCommerce Product to Sage: ADNANP1
+2024-11-17 14:12:05 - Mapped Sage Stock Record: ADNANP1
+2024-11-17 14:12:06 - Getting Products from Sage
+2024-11-17 14:12:07 - Updating Product:ABC123
+2024-11-17 14:12:08 - Updating Product:ADNANP1
+2024-11-17 14:12:10 - Updating Product:FATEH-OLIVES
+2024-11-17 14:12:11 - Updating Product:MO2334
+2024-11-17 14:12:12 - Updating Product:NEWSTOCK
+2024-11-17 14:12:13 - Updating Product:P1
+2024-11-17 14:12:15 - Updating Product:PRODUCT WEBSITE
+2024-11-17 14:12:16 - Updating Product:QQ123
+2024-11-17 14:12:17 - Updating Product:SAGESTOCK
+2024-11-17 14:12:19 - Error while getting products from sage Error: Not a legal OleAut date.
+2024-11-17 14:17:33 - Getting Products from Sage
+2024-11-17 14:17:34 - Updating Product:FATEH-OLIVES
+2024-11-17 14:17:36 - Updating Product:MO2334
+2024-11-17 15:13:15 - Getting Products from Sage
+2024-11-17 15:18:20 - Getting Products from Sage
+2024-11-17 16:13:28 - Getting Products from Sage
+2024-11-17 16:18:33 - Getting Products from Sage
+2024-11-17 21:21:35 - Getting Products from Sage
+2024-11-17 21:26:40 - Getting Products from Sage
+2024-11-17 22:29:27 - Getting Products from Sage
+2024-11-17 22:34:34 - Getting Products from Sage
+2024-11-17 23:29:43 - Getting Products from Sage
+2024-11-17 23:34:51 - Getting Products from Sage

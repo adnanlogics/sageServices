@@ -1,0 +1,17 @@
+2025-01-28 17:26:32 - Error while getting orders from Woo ERROR: No such host is known. (demo.meernmeer.com:443)
+2025-01-28 17:26:32 - Total Orders from WOO: 0
+2025-01-28 17:31:24 - Total Orders from WOO: 26
+2025-01-28 17:37:06 - Error while adding order to Sage: Object reference not set to an instance of an object.
+2025-01-28 17:37:36 - Error while adding order to Sage: Object reference not set to an instance of an object.
+2025-01-28 17:37:45 - Error while adding order to Sage: Object reference not set to an instance of an object.
+2025-01-28 17:37:53 - Error while adding order to Sage: Object reference not set to an instance of an object.
+2025-01-28 17:38:02 - Error while adding order to Sage: Object reference not set to an instance of an object.
+2025-01-28 17:38:13 - Error while adding order to Sage: Object reference not set to an instance of an object.
+2025-01-28 17:38:25 - Error while adding order to Sage: Object reference not set to an instance of an object.
+2025-01-28 17:38:34 - Error while adding order to Sage: Object reference not set to an instance of an object.
+2025-01-28 17:38:46 - Error while adding order to Sage: Object reference not set to an instance of an object.
+2025-01-28 17:39:00 - Error while adding order to Sage: Object reference not set to an instance of an object.
+2025-01-28 17:40:31 - Error while adding order to Sage: Object reference not set to an instance of an object.
+2025-01-28 17:40:43 - Error while adding order to Sage: Object reference not set to an instance of an object.
+2025-01-28 17:42:06 - Mapping WooCommerce Order to Sage: 22327
+2025-01-28 17:47:30 - Mapped Sage Order Record: 22327

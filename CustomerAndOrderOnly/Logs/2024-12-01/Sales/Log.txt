@@ -1,0 +1,16 @@
+2024-12-01 19:37:50 - Getting Sales Order from Sage
+2024-12-01 19:38:48 - Error While Adding or Updating order: ERROR:Object reference not set to an instance of an object.
+2024-12-01 19:44:00 - Getting Sales Order from Sage
+2024-12-01 19:49:12 - Error While Adding or Updating order: ERROR:Object reference not set to an instance of an object.
+2024-12-01 19:49:52 - Error While Adding or Updating order: ERROR:Object reference not set to an instance of an object.
+2024-12-01 19:50:14 - Error While Adding or Updating order: ERROR:Object reference not set to an instance of an object.
+2024-12-01 19:50:27 - Error While Adding or Updating order: ERROR:Nullable object must have a value.
+2024-12-01 19:51:04 - Error While Adding or Updating order: ERROR:Object reference not set to an instance of an object.
+2024-12-01 19:51:10 - Error While Adding or Updating order: ERROR:Object reference not set to an instance of an object.
+2024-12-01 19:51:14 - Error While Adding or Updating order: ERROR:Object reference not set to an instance of an object.
+2024-12-01 19:51:18 - Error While Adding or Updating order: ERROR:Object reference not set to an instance of an object.
+2024-12-01 19:54:41 - Getting Sales Order from Sage
+2024-12-01 19:57:47 - Getting Sales Order from Sage
+2024-12-01 20:04:29 - Getting Sales Order from Sage
+2024-12-01 20:11:56 - Getting Sales Order from Sage
+2024-12-01 20:13:29 - Error While Adding or Updating order: ERROR:Object reference not set to an instance of an object.

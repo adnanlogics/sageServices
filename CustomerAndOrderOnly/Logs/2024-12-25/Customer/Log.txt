@@ -1,0 +1,1025 @@
+2024-12-25 12:33:45 - Total Customers to WOO: 116
+2024-12-25 12:37:46 - Total Customers to WOO: 116
+2024-12-25 12:37:53 - Added customer in Sage 011443AG@kbrh.com
+2024-12-25 12:37:54 - Added customer in Sage 07874858@mypaperless.co.uk
+2024-12-25 12:37:55 - Added customer in Sage 11627AG@kbrh.com
+2024-12-25 12:37:56 - Added customer in Sage 11628AG@kbrh.com
+2024-12-25 12:37:57 - Added customer in Sage 232507436@mypaperless.co.uk
+2024-12-25 12:37:58 - Added customer in Sage accounts@kiaoval.com
+2024-12-25 12:37:59 - Added customer in Sage ACCOUNTS@CAFE-LUCA.CO.UK
+2024-12-25 12:37:59 - Added customer in Sage accounts@gauchorestaurants.com
+2024-12-25 12:38:00 - Added customer in Sage accounts@stringfellows.com
+2024-12-25 12:38:01 - Added customer in Sage accounts@openhouselondon.com
+2024-12-25 12:38:02 - Added customer in Sage accounts@saborrestaurants.co.uk
+2024-12-25 12:38:02 - Added customer in Sage accounts@theleicesterarmspenshurst.co.uk
+2024-12-25 12:38:03 - Added customer in Sage accounts@ottolenghi.co.uk
+2024-12-25 12:38:04 - Added customer in Sage accounts@carmona.co.uk
+2024-12-25 12:38:05 - Added customer in Sage accounts@bobochacha.com
+2024-12-25 12:38:05 - Added customer in Sage accounts@hispanialondon.com
+2024-12-25 12:38:06 - Added customer in Sage accounts@bovingdons.co.uk
+2024-12-25 12:38:07 - Added customer in Sage accounts@barmargaux.co.uk
+2024-12-25 12:38:08 - Added customer in Sage accounts@barestaurant.com
+2024-12-25 12:38:08 - Added customer in Sage accounts@2850.co.uk
+2024-12-25 12:38:09 - Added customer in Sage accounts@cadburyhouse.com
+2024-12-25 12:38:10 - Added customer in Sage accounts-CDY@hicce.co.uk
+2024-12-25 12:38:11 - Added customer in Sage accounts-penton@hiccehart.co.uk
+2024-12-25 12:38:11 - Added customer in Sage Accounts.London@editionhotels.com
+2024-12-25 12:38:12 - Added customer in Sage accounts.payable@absolutetaste.com
+2024-12-25 12:38:13 - Added customer in Sage accountsbr@icloud.com
+2024-12-25 12:38:13 - Added customer in Sage accountscity@bardouro.co.uk
+2024-12-25 12:38:14 - Added customer in Sage accountslondonbridge@bardouro.co.uk
+2024-12-25 12:38:15 - Added customer in Sage accountspayable@arrosqd.com
+2024-12-25 12:38:15 - Added customer in Sage adelaidemanager@barrafina.co.uk
+2024-12-25 12:38:16 - Added customer in Sage admin@ibericarestaurants.com
+2024-12-25 12:38:17 - Added customer in Sage admin@cubemayfair.com
+2024-12-25 12:38:17 - Added customer in Sage agreenidge@thegablesbristol.co.uk
+2024-12-25 12:38:18 - Added customer in Sage agrosu@mohg.com
+2024-12-25 12:38:19 - Added customer in Sage agustina@toklas.co.uk
+2024-12-25 12:38:20 - Added customer in Sage alessandro@americanalondon.com
+2024-12-25 12:38:20 - Added customer in Sage alex@pique-nique.co.uk
+2024-12-25 12:38:21 - Added customer in Sage alex@behindthiswall.com
+2024-12-25 12:38:22 - Added customer in Sage anna@bath.hotelindigo.com
+2024-12-25 12:38:23 - Added customer in Sage AP@caprice-holdings.co.uk
+2024-12-25 12:38:23 - Added customer in Sage atarashi@jysm.co.uk
+2024-12-25 12:38:24 - Added customer in Sage bar.liverpool@gauchorestaurants.com
+2024-12-25 12:38:25 - Added customer in Sage bayswater@chamuyo.co.uk
+2024-12-25 12:38:26 - Added customer in Sage bombaybustle@paperchase.ac
+2024-12-25 12:38:27 - Added customer in Sage Broadgate@gauchorestaurants.com
+2024-12-25 12:38:28 - Added customer in Sage cabotte@insightinfo.co.uk
+2024-12-25 12:38:28 - Added customer in Sage cambiodeterciogroup@btconnect.com
+2024-12-25 12:38:29 - Added customer in Sage info@chamuyo.co.uk
+2024-12-25 12:38:30 - Added customer in Sage chandra@veenobars.com
+2024-12-25 12:38:31 - Added customer in Sage christina@mazi.co.uk
+2024-12-25 12:38:31 - Added customer in Sage christina@suzitros.com
+2024-12-25 12:38:32 - Added customer in Sage City@gauchorestaurants.com
+2024-12-25 12:38:33 - Added customer in Sage comptoir@pchase.co.uk
+2024-12-25 12:38:33 - Added customer in Sage corrigan@etcfinance.co.uk
+2024-12-25 12:38:34 - Added customer in Sage corrigan@etchospitality.com
+2024-12-25 12:38:35 - Added customer in Sage creditcontrol@bucketandspade.com
+2024-12-25 12:38:36 - Added customer in Sage CrownPub@pchase.co.uk
+2024-12-25 12:38:36 - Added customer in Sage daniel@jd-ice.co.uk
+2024-12-25 12:38:37 - Added customer in Sage danilo.duarte@louie-london.com
+2024-12-25 12:38:38 - Added customer in Sage info@demitasselondon.com
+2024-12-25 12:38:38 - Added customer in Sage dnapinvoicesubmissionuk@delawarenorth.com
+2024-12-25 12:38:39 - Added customer in Sage ed@stemandstem.com
+2024-12-25 12:38:40 - Added customer in Sage enquiries@honeyandco.co.uk
+2024-12-25 12:38:40 - Added customer in Sage etxeko.janaria@outlook.com
+2024-12-25 12:38:41 - Added customer in Sage finance@hide.co.uk
+2024-12-25 12:38:42 - Added customer in Sage finance@4Locos.co.uk
+2024-12-25 12:38:43 - Added customer in Sage finance@veenobars.com
+2024-12-25 12:38:43 - Added customer in Sage finance@lghhm.com
+2024-12-25 12:38:44 - Added customer in Sage gia@freakscenerestaurants.com
+2024-12-25 12:38:45 - Added customer in Sage glasgow@gauchorestaurants.com
+2024-12-25 12:38:46 - Added customer in Sage gm@theivymanchester.com
+2024-12-25 12:38:46 - Added customer in Sage Indianessence@paperchase.ac
+2024-12-25 12:38:47 - Added customer in Sage Indianessence@pchase.co.uk
+2024-12-25 12:38:48 - Added customer in Sage Info@pompetterestaurant.co.uk
+2024-12-25 12:38:48 - Added customer in Sage Info@kusikuy.co.uk
+2024-12-25 12:38:49 - Added customer in Sage invoices@wshsupply.com
+2024-12-25 12:38:50 - Added customer in Sage invoices@sushisumi.com
+2024-12-25 12:38:50 - Added customer in Sage invoices@thesurprise-chelsea.co.uk
+2024-12-25 12:38:51 - Added customer in Sage invoices@legarelondon.com
+2024-12-25 12:38:52 - Added customer in Sage jack@wrenpubs.co.uk
+2024-12-25 12:38:52 - Added customer in Sage james@trufflehunting.co.uk
+2024-12-25 12:38:53 - Added customer in Sage jeepson@benaresrestaurant.co.uk
+2024-12-25 12:38:54 - Added customer in Sage Jennifer.Mendis@stanfords.co.uk
+2024-12-25 12:38:54 - Added customer in Sage john@veenobars.com
+2024-12-25 12:38:55 - Added customer in Sage JosePizarro@paperchase.ac
+2024-12-25 12:38:56 - Added customer in Sage karen@xactima.co.uk
+2024-12-25 12:38:57 - Added customer in Sage info@kelletgreen.co.uk
+2024-12-25 12:38:57 - Added customer in Sage Leonardo.Hoxha@bulgarihotels.co.uk
+2024-12-25 12:38:58 - Added customer in Sage loscaris2020@gmail.com
+2024-12-25 12:38:59 - Added customer in Sage Manchester@gauchorestaurants.com
+2024-12-25 12:38:59 - Added customer in Sage info@marcosbrentwood.com
+2024-12-25 12:39:00 - Added customer in Sage marius@letocaffe.co.uk
+2024-12-25 12:39:01 - Added customer in Sage marksman@jeffreyshenry.cloud
+2024-12-25 12:39:01 - Added customer in Sage matthew@barloveuk.com
+2024-12-25 12:39:02 - Added customer in Sage O2Arena@gauchorestaurants.com
+2024-12-25 12:39:03 - Added customer in Sage osteriadell_angolo@btconnect.com
+2024-12-25 12:39:03 - Added customer in Sage OTHER@kbrh.com
+2024-12-25 12:39:04 - Added customer in Sage palmira.grallinu@obica.com
+2024-12-25 12:39:05 - Added customer in Sage paola@parkandbridge.com
+2024-12-25 12:39:05 - Added customer in Sage phil@peopleswine.co.uk
+2024-12-25 12:39:06 - Added customer in Sage piccadilly@gauchorestaurants.com
+2024-12-25 12:39:07 - Added customer in Sage readingfinance@veenobars.com
+2024-12-25 12:39:07 - Added customer in Sage Remy.BABEN@sofitel.com
+2024-12-25 12:39:08 - Added customer in Sage ricky@bobochacha.com
+2024-12-25 12:39:09 - Added customer in Sage robuchon@paperchase.ac
+2024-12-25 12:39:09 - Added customer in Sage s.tiraboschi@essenza.co.uk
+2024-12-25 12:39:10 - Added customer in Sage socialbymax@gmail.com
+2024-12-25 12:39:11 - Added customer in Sage statements@chandcogroup.com
+2024-12-25 12:39:11 - Added customer in Sage tables@aboutthyme.co.uk
+2024-12-25 12:39:12 - Added customer in Sage towerbridge@gauchorestaurants.com
+2024-12-25 12:39:13 - Added customer in Sage UK.accountspayable@lavazza.com
+2024-12-25 12:39:13 - Added customer in Sage valentina@belvedererestaurant.co.uk
+2024-12-25 12:39:14 - Added customer in Sage valentina.omnino@gmail.com
+2024-12-25 12:39:15 - Added customer in Sage vix@theolivebranchpub.com
+2024-12-25 12:39:15 - Added customer in Sage wade@themelusine.co.uk
+2024-12-25 12:39:16 - Added customer in Sage weddings@dodmoorhouse.co.uk
+2024-12-25 12:39:28 - Total Customers FROM sAGE: 907
+2024-12-25 12:39:34 - Adding New Customer:002351-A
+2024-12-25 12:39:39 - Adding New Customer:002352-A
+2024-12-25 12:39:44 - Adding New Customer:002354AG
+2024-12-25 12:39:48 - Adding New Customer:002355-A
+2024-12-25 12:39:49 - Adding New Customer:002355-O
+2024-12-25 12:39:55 - Adding New Customer:002360
+2024-12-25 12:40:03 - Error While Adding or Updating Customer:011444AGERROR:An error occurred while sending the request.
+2024-12-25 12:40:06 - Adding New Customer:013300AG
+2024-12-25 12:40:06 - Adding New Customer:013301AG
+2024-12-25 12:40:14 - Adding New Customer:013303AG
+2024-12-25 12:40:15 - Adding New Customer:013304AG
+2024-12-25 12:40:22 - Adding New Customer:013306AG
+2024-12-25 12:40:22 - Adding New Customer:013309AG
+2024-12-25 12:40:25 - Adding New Customer:013310AG
+2024-12-25 12:40:26 - Adding New Customer:013311AG
+2024-12-25 12:40:26 - Adding New Customer:013312AG
+2024-12-25 12:40:31 - Adding New Customer:013314AG
+2024-12-25 12:40:34 - Adding New Customer:013320AG
+2024-12-25 12:40:34 - Adding New Customer:013323AG
+2024-12-25 12:40:34 - Adding New Customer:013324AG
+2024-12-25 12:40:34 - Adding New Customer:013325AG
+2024-12-25 12:40:34 - Adding New Customer:013327AG
+2024-12-25 12:40:34 - Adding New Customer:013329AG
+2024-12-25 12:40:40 - Adding New Customer:013330AG
+2024-12-25 12:40:41 - Adding New Customer:013331AG
+2024-12-25 12:40:41 - Adding New Customer:013332AG
+2024-12-25 12:40:43 - Adding New Customer:013334AG
+2024-12-25 12:40:43 - Adding New Customer:013335AG
+2024-12-25 12:40:43 - Adding New Customer:013336AG
+2024-12-25 12:40:44 - Adding New Customer:013337AG
+2024-12-25 12:40:46 - Adding New Customer:013338AG
+2024-12-25 12:40:46 - Adding New Customer:013340-O
+2024-12-25 12:40:46 - Error While Adding or Updating Customer:013341AGERROR:{"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+2024-12-25 12:40:48 - Adding New Customer:013343AD
+2024-12-25 12:40:49 - Adding New Customer:013343AG
+2024-12-25 12:40:50 - Adding New Customer:013344AD
+2024-12-25 12:40:51 - Adding New Customer:013344AG
+2024-12-25 12:40:52 - Adding New Customer:013345AD
+2024-12-25 12:40:54 - Adding New Customer:013346AD
+2024-12-25 12:40:55 - Adding New Customer:013346AG
+2024-12-25 12:40:56 - Adding New Customer:013348AG
+2024-12-25 12:40:57 - Adding New Customer:013349AG
+2024-12-25 12:40:59 - Adding New Customer:013351AD
+2024-12-25 12:41:00 - Adding New Customer:013351AG
+2024-12-25 12:41:03 - Adding New Customer:013352AG
+2024-12-25 12:41:03 - Adding New Customer:013353AG
+2024-12-25 12:41:05 - Adding New Customer:013354AG
+2024-12-25 12:41:06 - Adding New Customer:013356AG
+2024-12-25 12:41:06 - Adding New Customer:013364AG
+2024-12-25 12:41:06 - Adding New Customer:013365AG
+2024-12-25 12:41:11 - Adding New Customer:013366AG
+2024-12-25 12:41:12 - Adding New Customer:013368AG
+2024-12-25 12:41:14 - Adding New Customer:013370AG
+2024-12-25 12:41:15 - Adding New Customer:013371AG
+2024-12-25 12:41:15 - Error While Adding or Updating Customer:013374AGERROR:{"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+2024-12-25 12:41:17 - Adding New Customer:013375AG
+2024-12-25 12:41:18 - Adding New Customer:013378AG
+2024-12-25 12:41:18 - Error While Adding or Updating Customer:013379AGERROR:{"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+2024-12-25 12:41:19 - Adding New Customer:013382AG
+2024-12-25 12:41:19 - Adding New Customer:013383AG
+2024-12-25 12:41:19 - Adding New Customer:013384AG
+2024-12-25 12:41:19 - Adding New Customer:013385AG
+2024-12-25 12:41:19 - Adding New Customer:013386AG
+2024-12-25 12:41:19 - Adding New Customer:013389AG
+2024-12-25 12:41:19 - Adding New Customer:013391AG
+2024-12-25 12:41:19 - Adding New Customer:013392AG
+2024-12-25 12:41:22 - Adding New Customer:013393AG
+2024-12-25 12:41:22 - Error While Adding or Updating Customer:013394AGERROR:{"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+2024-12-25 12:41:23 - Adding New Customer:013395-R
+2024-12-25 12:41:23 - Adding New Customer:013396AG
+2024-12-25 12:41:25 - Adding New Customer:013399AG
+2024-12-25 12:41:25 - Adding New Customer:013402AG
+2024-12-25 12:41:26 - Adding New Customer:013404AG
+2024-12-25 12:41:26 - Adding New Customer:013405AG
+2024-12-25 12:41:26 - Adding New Customer:013406AG
+2024-12-25 12:41:26 - Adding New Customer:013407AG
+2024-12-25 12:41:26 - Adding New Customer:013411AG
+2024-12-25 12:41:27 - Error While Adding or Updating Customer:013412AGERROR:{"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+2024-12-25 12:41:27 - Adding New Customer:013413AG
+2024-12-25 12:41:27 - Error While Adding or Updating Customer:013414AGERROR:{"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+2024-12-25 12:41:27 - Adding New Customer:013415AG
+2024-12-25 12:41:31 - Adding New Customer:013416AG
+2024-12-25 12:41:32 - Adding New Customer:013417AG
+2024-12-25 12:41:33 - Error While Adding or Updating Customer:013418AGERROR:{"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+2024-12-25 12:41:33 - Adding New Customer:013419AG
+2024-12-25 12:41:33 - Adding New Customer:013420AG
+2024-12-25 12:41:36 - Adding New Customer:013423AG
+2024-12-25 12:41:36 - Adding New Customer:013425AG
+2024-12-25 12:41:36 - Adding New Customer:013426AG
+2024-12-25 12:41:39 - Adding New Customer:013427AG
+2024-12-25 12:41:39 - Adding New Customer:013431AG
+2024-12-25 12:41:42 - Adding New Customer:013432AG
+2024-12-25 12:41:42 - Adding New Customer:013433AG
+2024-12-25 12:41:43 - Adding New Customer:013434AG
+2024-12-25 12:41:43 - Adding New Customer:013436AG
+2024-12-25 12:41:45 - Adding New Customer:013438AG
+2024-12-25 12:41:48 - Adding New Customer:013441AG
+2024-12-25 12:41:48 - Adding New Customer:013447AG
+2024-12-25 12:41:54 - Adding New Customer:013448AG
+2024-12-25 12:41:54 - Error While Adding or Updating Customer:013450AGERROR:{"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+2024-12-25 12:41:55 - Adding New Customer:013451AG
+2024-12-25 12:41:58 - Adding New Customer:013452AD
+2024-12-25 12:41:58 - Adding New Customer:013452AG
+2024-12-25 12:41:58 - Adding New Customer:013453AG
+2024-12-25 12:42:00 - Adding New Customer:013454AG
+2024-12-25 12:42:02 - Error While Adding or Updating Customer:013456AGERROR:{"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+2024-12-25 12:42:02 - Error While Adding or Updating Customer:013457AGERROR:{"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+2024-12-25 12:42:04 - Adding New Customer:013458AG
+2024-12-25 12:42:05 - Adding New Customer:013459AG
+2024-12-25 12:42:05 - Adding New Customer:013460AG
+2024-12-25 12:42:07 - Adding New Customer:013462AG
+2024-12-25 12:42:09 - Adding New Customer:013463AG
+2024-12-25 12:42:09 - Error While Adding or Updating Customer:013464AGERROR:{"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+2024-12-25 12:42:09 - Adding New Customer:013465AG
+2024-12-25 12:42:10 - Adding New Customer:013466AG
+2024-12-25 12:42:10 - Adding New Customer:013467AG
+2024-12-25 12:42:10 - Adding New Customer:013469AG
+2024-12-25 12:42:12 - Adding New Customer:013497AG
+2024-12-25 12:42:13 - Adding New Customer:013498AG
+2024-12-25 12:42:13 - Adding New Customer:013499AG
+2024-12-25 12:42:14 - Adding New Customer:013500AG
+2024-12-25 12:42:14 - Adding New Customer:013502AG
+2024-12-25 12:42:15 - Error While Adding or Updating Customer:013503AGERROR:{"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+2024-12-25 12:42:18 - Error While Adding or Updating Customer:013504AGERROR:{"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+2024-12-25 12:42:18 - Adding New Customer:013505AG
+2024-12-25 12:42:18 - Adding New Customer:013506AG
+2024-12-25 12:42:20 - Adding New Customer:013507AG
+2024-12-25 12:42:21 - Adding New Customer:013508AG
+2024-12-25 12:42:21 - Adding New Customer:013509-D
+2024-12-25 12:42:21 - Adding New Customer:02269D
+2024-12-25 12:42:22 - Adding New Customer:02351AG
+2024-12-25 12:42:22 - Adding New Customer:02355-O
+2024-12-25 12:42:22 - Adding New Customer:03348-R
+2024-12-25 12:42:23 - Adding New Customer:034003AG
+2024-12-25 12:42:23 - Adding New Customer:034012AG
+2024-12-25 12:42:23 - Adding New Customer:034018AG
+2024-12-25 12:42:24 - Adding New Customer:034023A1
+2024-12-25 12:42:25 - Adding New Customer:034023AG
+2024-12-25 12:42:25 - Adding New Customer:034024AG
+2024-12-25 12:42:26 - Adding New Customer:034025AG
+2024-12-25 12:42:27 - Error While Adding or Updating Customer:034026AGERROR:{"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+2024-12-25 12:42:28 - Adding New Customer:034027AG
+2024-12-25 12:42:28 - Error While Adding or Updating Customer:034028AGERROR:{"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+2024-12-25 12:42:29 - Adding New Customer:034029AG
+2024-12-25 12:42:30 - Adding New Customer:034030A1
+2024-12-25 12:42:30 - Adding New Customer:034030AG
+2024-12-25 12:42:31 - Adding New Customer:034031AG
+2024-12-25 12:42:31 - Adding New Customer:034032AG
+2024-12-25 12:42:32 - Adding New Customer:034033AG
+2024-12-25 12:42:32 - Adding New Customer:034034AG
+2024-12-25 12:42:33 - Adding New Customer:034035AG
+2024-12-25 12:42:33 - Adding New Customer:034036AG
+2024-12-25 12:42:34 - Error While Adding or Updating Customer:034037AGERROR:{"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+2024-12-25 12:42:35 - Adding New Customer:034038AG
+2024-12-25 12:42:36 - Adding New Customer:034039AG
+2024-12-25 12:42:38 - Adding New Customer:034041AD
+2024-12-25 12:42:38 - Adding New Customer:034041AG
+2024-12-25 12:42:39 - Adding New Customer:034043AG
+2024-12-25 12:42:40 - Adding New Customer:034044AG
+2024-12-25 12:42:41 - Adding New Customer:034045AG
+2024-12-25 12:42:42 - Adding New Customer:034046AG
+2024-12-25 12:42:42 - Adding New Customer:034047AG
+2024-12-25 12:42:43 - Error While Adding or Updating Customer:034048AGERROR:{"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+2024-12-25 12:42:44 - Adding New Customer:034049AG
+2024-12-25 12:42:45 - Adding New Customer:034050AG
+2024-12-25 12:42:46 - Adding New Customer:034051AG
+2024-12-25 12:42:47 - Adding New Customer:034052AG
+2024-12-25 12:42:48 - Adding New Customer:034053AG
+2024-12-25 12:42:49 - Adding New Customer:034054AG
+2024-12-25 12:42:49 - Adding New Customer:034055AG
+2024-12-25 12:42:52 - Adding New Customer:034056AG
+2024-12-25 12:42:55 - Adding New Customer:034057AG
+2024-12-25 12:42:56 - Adding New Customer:034058AG
+2024-12-25 12:42:57 - Adding New Customer:034060AD
+2024-12-25 12:42:59 - Adding New Customer:034061AG
+2024-12-25 12:43:00 - Adding New Customer:034062AG
+2024-12-25 12:43:02 - Adding New Customer:034063AG
+2024-12-25 12:43:03 - Adding New Customer:034064AG
+2024-12-25 12:43:04 - Adding New Customer:034065AG
+2024-12-25 12:43:05 - Adding New Customer:034066AG
+2024-12-25 12:43:06 - Adding New Customer:034067AG
+2024-12-25 12:43:08 - Adding New Customer:034068AG
+2024-12-25 12:43:10 - Adding New Customer:034069AG
+2024-12-25 12:43:13 - Adding New Customer:034071AG
+2024-12-25 12:43:14 - Adding New Customer:034072AG
+2024-12-25 12:43:15 - Adding New Customer:034073AG
+2024-12-25 12:43:17 - Adding New Customer:034074AG
+2024-12-25 12:43:19 - Adding New Customer:034075AG
+2024-12-25 12:43:20 - Adding New Customer:034076AG
+2024-12-25 12:43:21 - Adding New Customer:034077AG
+2024-12-25 12:43:21 - Adding New Customer:034078AG
+2024-12-25 12:43:21 - Adding New Customer:034079AG
+2024-12-25 12:43:22 - Adding New Customer:034080AG
+2024-12-25 12:43:23 - Adding New Customer:034081AG
+2024-12-25 12:43:23 - Adding New Customer:034082AG
+2024-12-25 12:43:25 - Adding New Customer:034084AG
+2024-12-25 12:43:27 - Adding New Customer:034085AG
+2024-12-25 12:43:27 - Adding New Customer:034087AG
+2024-12-25 12:43:28 - Adding New Customer:034088AG
+2024-12-25 12:43:29 - Adding New Customer:034089AG
+2024-12-25 12:43:33 - Adding New Customer:034090AG
+2024-12-25 12:43:34 - Adding New Customer:034091AG
+2024-12-25 12:43:36 - Adding New Customer:034092AG
+2024-12-25 12:43:37 - Adding New Customer:034093AG
+2024-12-25 12:43:37 - Adding New Customer:034094AG
+2024-12-25 12:43:38 - Adding New Customer:034095AG
+2024-12-25 12:43:40 - Adding New Customer:034096AG
+2024-12-25 12:43:40 - Adding New Customer:034098AG
+2024-12-25 12:43:42 - Adding New Customer:034099AG
+2024-12-25 12:43:44 - Adding New Customer:034100AG
+2024-12-25 12:43:45 - Adding New Customer:034101AG
+2024-12-25 12:43:45 - Adding New Customer:034102AG
+2024-12-25 12:43:46 - Adding New Customer:034104AG
+2024-12-25 12:43:48 - Adding New Customer:034105AG
+2024-12-25 12:43:52 - Adding New Customer:034106AG
+2024-12-25 12:43:52 - Adding New Customer:034107AG
+2024-12-25 12:43:54 - Adding New Customer:034108AG
+2024-12-25 12:43:54 - Adding New Customer:034109AG
+2024-12-25 12:43:54 - Adding New Customer:034111AG
+2024-12-25 12:43:56 - Adding New Customer:034112AG
+2024-12-25 12:43:57 - Adding New Customer:034113AG
+2024-12-25 12:43:57 - Error While Adding or Updating Customer:034114AGERROR:{"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+2024-12-25 12:43:58 - Adding New Customer:034115AG
+2024-12-25 12:43:59 - Adding New Customer:034116AG
+2024-12-25 12:44:00 - Adding New Customer:034117AG
+2024-12-25 12:44:01 - Adding New Customer:034118AG
+2024-12-25 12:44:02 - Adding New Customer:034120AG
+2024-12-25 12:44:03 - Adding New Customer:034121AG
+2024-12-25 12:44:04 - Adding New Customer:034122AG
+2024-12-25 12:44:04 - Adding New Customer:034123AG
+2024-12-25 12:44:05 - Adding New Customer:034124AG
+2024-12-25 12:44:05 - Adding New Customer:034125AG
+2024-12-25 12:44:06 - Error While Adding or Updating Customer:034126AGERROR:{"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+2024-12-25 12:44:06 - Adding New Customer:034127AG
+2024-12-25 12:44:06 - Adding New Customer:034128-C
+2024-12-25 12:44:06 - Adding New Customer:034128AG
+2024-12-25 12:44:06 - Adding New Customer:034129AG
+2024-12-25 12:44:08 - Adding New Customer:034130AG
+2024-12-25 12:44:08 - Adding New Customer:034131AG
+2024-12-25 12:44:09 - Adding New Customer:034132AG
+2024-12-25 12:44:12 - Adding New Customer:034134AG
+2024-12-25 12:44:13 - Adding New Customer:034135AG
+2024-12-25 12:44:15 - Adding New Customer:034136AG
+2024-12-25 12:44:16 - Adding New Customer:034140AG
+2024-12-25 12:44:17 - Adding New Customer:034142AG
+2024-12-25 12:44:18 - Adding New Customer:034144AG
+2024-12-25 12:44:19 - Error While Adding or Updating Customer:034145AGERROR:{"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+2024-12-25 12:44:20 - Adding New Customer:034146AG
+2024-12-25 12:44:22 - Error While Adding or Updating Customer:034148AGERROR:{"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+2024-12-25 12:44:22 - Adding New Customer:034149AG
+2024-12-25 12:44:22 - Adding New Customer:034150AG
+2024-12-25 12:44:23 - Adding New Customer:034151AG
+2024-12-25 12:44:25 - Adding New Customer:034152AG
+2024-12-25 12:44:33 - Adding New Customer:034153AG
+2024-12-25 12:44:33 - Error While Adding or Updating Customer:034154AGERROR:{"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+2024-12-25 12:44:33 - Adding New Customer:034155AG
+2024-12-25 12:44:34 - Adding New Customer:034156AG
+2024-12-25 12:44:38 - Adding New Customer:034157AG
+2024-12-25 12:44:39 - Adding New Customer:034158AG
+2024-12-25 12:44:40 - Adding New Customer:034159AG
+2024-12-25 12:44:40 - Error While Adding or Updating Customer:034162AGERROR:{"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+2024-12-25 12:44:40 - Adding New Customer:034163AG
+2024-12-25 12:44:42 - Adding New Customer:034164
+2024-12-25 12:44:43 - Adding New Customer:034164AG
+2024-12-25 12:44:43 - Adding New Customer:034166AG
+2024-12-25 12:44:43 - Adding New Customer:034167AG
+2024-12-25 12:44:45 - Adding New Customer:034169AG
+2024-12-25 12:44:46 - Adding New Customer:034171AG
+2024-12-25 12:44:47 - Adding New Customer:034172AG
+2024-12-25 12:44:48 - Error While Adding or Updating Customer:034173AGERROR:{"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+2024-12-25 12:44:50 - Adding New Customer:034175AG
+2024-12-25 12:44:50 - Adding New Customer:034176AG
+2024-12-25 12:44:50 - Adding New Customer:034177AG
+2024-12-25 12:44:52 - Adding New Customer:034179AG
+2024-12-25 12:44:52 - Adding New Customer:034181AG
+2024-12-25 12:44:53 - Adding New Customer:034182AG
+2024-12-25 12:44:53 - Adding New Customer:034183AG
+2024-12-25 12:44:55 - Adding New Customer:034184AG
+2024-12-25 12:44:55 - Error While Adding or Updating Customer:034185AGERROR:{"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+2024-12-25 12:44:56 - Adding New Customer:034186AG
+2024-12-25 12:44:57 - Adding New Customer:034187AG
+2024-12-25 12:44:58 - Adding New Customer:034188AG
+2024-12-25 12:44:59 - Error While Adding or Updating Customer:034189AGERROR:{"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+2024-12-25 12:44:59 - Adding New Customer:034190AG
+2024-12-25 12:45:00 - Adding New Customer:034191AG
+2024-12-25 12:45:01 - Adding New Customer:034193AG
+2024-12-25 12:45:01 - Adding New Customer:034194AG
+2024-12-25 12:45:01 - Error While Adding or Updating Customer:034195AGERROR:{"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+2024-12-25 12:45:02 - Adding New Customer:034196AG
+2024-12-25 12:45:03 - Adding New Customer:034197AG
+2024-12-25 12:45:04 - Adding New Customer:034198AG
+2024-12-25 12:45:04 - Error While Adding or Updating Customer:034199AGERROR:{"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+2024-12-25 12:45:05 - Adding New Customer:034200AG
+2024-12-25 12:45:06 - Adding New Customer:034201AG
+2024-12-25 12:45:07 - Error While Adding or Updating Customer:034202AGERROR:{"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+2024-12-25 12:45:07 - Adding New Customer:034203AG
+2024-12-25 12:45:08 - Adding New Customer:034204AG
+2024-12-25 12:45:09 - Adding New Customer:034206AG
+2024-12-25 12:45:09 - Adding New Customer:034207AG
+2024-12-25 12:45:11 - Adding New Customer:034209AG
+2024-12-25 12:45:12 - Adding New Customer:034211AG
+2024-12-25 12:45:12 - Adding New Customer:034212AG
+2024-12-25 12:45:13 - Error While Adding or Updating Customer:034213AGERROR:{"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+2024-12-25 12:45:14 - Adding New Customer:034214AG
+2024-12-25 12:45:15 - Adding New Customer:034215AG
+2024-12-25 12:45:15 - Adding New Customer:034216AG
+2024-12-25 12:45:16 - Adding New Customer:034217AG
+2024-12-25 12:45:19 - Adding New Customer:034219AG
+2024-12-25 12:45:19 - Adding New Customer:034220AG
+2024-12-25 12:45:20 - Adding New Customer:034221AG
+2024-12-25 12:45:21 - Error While Adding or Updating Customer:034222AGERROR:{"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+2024-12-25 12:45:22 - Error While Adding or Updating Customer:034223AGERROR:{"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+2024-12-25 12:45:24 - Adding New Customer:034225AG
+2024-12-25 12:45:26 - Adding New Customer:034227AG
+2024-12-25 12:45:28 - Adding New Customer:034228AG
+2024-12-25 12:45:29 - Adding New Customer:034230AG
+2024-12-25 12:45:30 - Adding New Customer:034240AG
+2024-12-25 12:45:31 - Adding New Customer:034241AG
+2024-12-25 12:45:33 - Adding New Customer:034244AG
+2024-12-25 12:45:35 - Adding New Customer:034245AG
+2024-12-25 12:45:35 - Adding New Customer:034247AG
+2024-12-25 12:45:36 - Adding New Customer:034248AG
+2024-12-25 12:45:37 - Adding New Customer:034249AG
+2024-12-25 12:45:38 - Adding New Customer:034250AG
+2024-12-25 12:45:40 - Adding New Customer:034252AG
+2024-12-25 12:45:40 - Adding New Customer:034253AG
+2024-12-25 12:45:41 - Adding New Customer:034254AG
+2024-12-25 12:45:42 - Adding New Customer:034256AG
+2024-12-25 12:45:43 - Adding New Customer:034257AG
+2024-12-25 12:45:43 - Error While Adding or Updating Customer:034258AGERROR:{"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+2024-12-25 12:45:45 - Adding New Customer:034259AG
+2024-12-25 12:45:53 - Adding New Customer:034260AG
+2024-12-25 12:45:54 - Adding New Customer:034261AG
+2024-12-25 12:45:57 - Adding New Customer:034262AG
+2024-12-25 12:45:58 - Adding New Customer:034263AG
+2024-12-25 12:46:00 - Adding New Customer:034264AG
+2024-12-25 12:46:01 - Adding New Customer:034265AG
+2024-12-25 12:46:02 - Adding New Customer:034267AG
+2024-12-25 12:46:04 - Adding New Customer:034268AG
+2024-12-25 12:46:04 - Adding New Customer:034269AG
+2024-12-25 12:46:04 - Adding New Customer:034270AG
+2024-12-25 12:46:04 - Adding New Customer:034271AG
+2024-12-25 12:46:05 - Adding New Customer:034272AG
+2024-12-25 12:46:06 - Adding New Customer:034273AG
+2024-12-25 12:46:08 - Error While Adding or Updating Customer:034275AGERROR:{"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+2024-12-25 12:46:08 - Adding New Customer:034276AG
+2024-12-25 12:46:10 - Adding New Customer:034277AG
+2024-12-25 12:46:11 - Adding New Customer:034278AG
+2024-12-25 12:46:12 - Adding New Customer:034280AG
+2024-12-25 12:46:13 - Adding New Customer:034281AG
+2024-12-25 12:46:13 - Adding New Customer:034282AG
+2024-12-25 12:46:23 - Adding New Customer:034285AG
+2024-12-25 12:46:24 - Adding New Customer:034286AG
+2024-12-25 12:46:24 - Adding New Customer:034287AG
+2024-12-25 12:46:24 - Adding New Customer:034289AG
+2024-12-25 12:46:28 - Adding New Customer:034290AG
+2024-12-25 12:46:29 - Adding New Customer:034291AG
+2024-12-25 12:46:31 - Adding New Customer:034294AG
+2024-12-25 12:46:32 - Adding New Customer:034295AG
+2024-12-25 12:46:32 - Adding New Customer:034296AG
+2024-12-25 12:46:34 - Adding New Customer:034298AG
+2024-12-25 12:46:35 - Adding New Customer:034299AG
+2024-12-25 12:46:36 - Adding New Customer:034300AG
+2024-12-25 12:46:37 - Adding New Customer:034301AG
+2024-12-25 12:46:38 - Adding New Customer:034303AG
+2024-12-25 12:46:38 - Adding New Customer:034304AG
+2024-12-25 12:46:39 - Adding New Customer:034305AG
+2024-12-25 12:46:40 - Adding New Customer:034306AG
+2024-12-25 12:46:41 - Adding New Customer:034307AG
+2024-12-25 12:46:41 - Adding New Customer:034309AG
+2024-12-25 12:46:41 - Adding New Customer:034310AG
+2024-12-25 12:46:43 - Adding New Customer:034312AG
+2024-12-25 12:46:43 - Adding New Customer:034313AG
+2024-12-25 12:46:44 - Adding New Customer:034314AG
+2024-12-25 12:46:46 - Adding New Customer:034315AG
+2024-12-25 12:46:46 - Adding New Customer:034316AG
+2024-12-25 12:46:47 - Adding New Customer:034317AG
+2024-12-25 12:46:51 - Adding New Customer:034318AG
+2024-12-25 12:46:52 - Adding New Customer:034319AG
+2024-12-25 12:46:54 - Adding New Customer:034321AG
+2024-12-25 12:46:54 - Adding New Customer:034322AG
+2024-12-25 12:46:55 - Adding New Customer:034323AG
+2024-12-25 12:46:56 - Adding New Customer:034324AG
+2024-12-25 12:46:56 - Adding New Customer:034325AG
+2024-12-25 12:46:57 - Adding New Customer:034326AG
+2024-12-25 12:46:58 - Adding New Customer:034327AG
+2024-12-25 12:46:59 - Adding New Customer:034328AG
+2024-12-25 12:47:00 - Adding New Customer:034329AG
+2024-12-25 12:47:00 - Adding New Customer:034330AG
+2024-12-25 12:47:02 - Adding New Customer:034334AG
+2024-12-25 12:47:03 - Adding New Customer:034335AG
+2024-12-25 12:47:04 - Error While Adding or Updating Customer:034336AGERROR:{"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+2024-12-25 12:47:05 - Adding New Customer:034337AG
+2024-12-25 12:47:06 - Adding New Customer:034338AG
+2024-12-25 12:47:07 - Adding New Customer:034339AG
+2024-12-25 12:47:08 - Adding New Customer:03434-R
+2024-12-25 12:47:08 - Adding New Customer:034340AG
+2024-12-25 12:47:09 - Adding New Customer:034341AG
+2024-12-25 12:47:10 - Adding New Customer:034342AG
+2024-12-25 12:47:11 - Adding New Customer:034343AG
+2024-12-25 12:47:12 - Adding New Customer:034346AG
+2024-12-25 12:47:13 - Adding New Customer:034347-R
+2024-12-25 12:47:14 - Adding New Customer:034347AG
+2024-12-25 12:47:15 - Adding New Customer:034348AG
+2024-12-25 12:47:16 - Adding New Customer:034349-R
+2024-12-25 12:47:19 - Adding New Customer:034351AG
+2024-12-25 12:47:19 - Adding New Customer:034352AG
+2024-12-25 12:47:19 - Adding New Customer:034353AG
+2024-12-25 12:47:20 - Adding New Customer:034356AG
+2024-12-25 12:47:21 - Adding New Customer:034357AG
+2024-12-25 12:47:22 - Adding New Customer:034358AG
+2024-12-25 12:47:23 - Adding New Customer:034359AG
+2024-12-25 12:47:23 - Adding New Customer:034360AG
+2024-12-25 12:47:24 - Adding New Customer:034361AG
+2024-12-25 12:47:25 - Adding New Customer:034362AG
+2024-12-25 12:47:25 - Adding New Customer:034363AG
+2024-12-25 12:47:27 - Adding New Customer:034364AG
+2024-12-25 12:47:28 - Adding New Customer:034365AG
+2024-12-25 12:47:29 - Adding New Customer:034367-H
+2024-12-25 12:47:30 - Adding New Customer:034368-H
+2024-12-25 12:47:30 - Adding New Customer:034368AG
+2024-12-25 12:47:31 - Adding New Customer:034370AG
+2024-12-25 12:47:32 - Adding New Customer:034371AG
+2024-12-25 12:47:33 - Adding New Customer:034372AG
+2024-12-25 12:47:33 - Error While Adding or Updating Customer:034373AGERROR:{"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+2024-12-25 12:47:34 - Adding New Customer:034375AG
+2024-12-25 12:47:35 - Adding New Customer:034376AG
+2024-12-25 12:47:36 - Adding New Customer:034377AG
+2024-12-25 12:47:37 - Adding New Customer:034378AG
+2024-12-25 12:47:37 - Adding New Customer:034379AG
+2024-12-25 12:47:37 - Adding New Customer:034380AG
+2024-12-25 12:47:38 - Adding New Customer:034381AG
+2024-12-25 12:47:39 - Adding New Customer:034382AG
+2024-12-25 12:47:39 - Adding New Customer:034383AG
+2024-12-25 12:47:40 - Adding New Customer:034384AG
+2024-12-25 12:47:41 - Adding New Customer:034386AG
+2024-12-25 12:47:41 - Adding New Customer:034387AG
+2024-12-25 12:47:42 - Adding New Customer:034388AG
+2024-12-25 12:47:42 - Error While Adding or Updating Customer:034389AGERROR:{"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+2024-12-25 12:47:43 - Adding New Customer:034390AG
+2024-12-25 12:47:44 - Adding New Customer:034391AG
+2024-12-25 12:47:45 - Adding New Customer:034392AG
+2024-12-25 12:47:46 - Adding New Customer:034393AG
+2024-12-25 12:47:46 - Adding New Customer:034394AG
+2024-12-25 12:47:47 - Adding New Customer:034395AG
+2024-12-25 12:47:49 - Adding New Customer:034396AG
+2024-12-25 12:47:49 - Adding New Customer:034397AG
+2024-12-25 12:47:50 - Adding New Customer:034398AG
+2024-12-25 12:47:51 - Adding New Customer:034410AG
+2024-12-25 12:47:52 - Adding New Customer:034411AG
+2024-12-25 12:47:53 - Adding New Customer:034412AG
+2024-12-25 12:47:53 - Adding New Customer:034413AG
+2024-12-25 12:47:57 - Adding New Customer:034414AG
+2024-12-25 12:47:58 - Adding New Customer:034415AG
+2024-12-25 12:47:58 - Adding New Customer:03485AG
+2024-12-25 12:48:00 - Adding New Customer:113350AG
+2024-12-25 12:48:01 - Adding New Customer:113351AG
+2024-12-25 12:48:01 - Adding New Customer:113352AG
+2024-12-25 12:48:03 - Adding New Customer:113353AG
+2024-12-25 12:48:03 - Adding New Customer:113354AG
+2024-12-25 12:48:04 - Adding New Customer:113355AG
+2024-12-25 12:48:05 - Adding New Customer:113356AG
+2024-12-25 12:48:06 - Adding New Customer:113357AG
+2024-12-25 12:48:07 - Adding New Customer:113358AG
+2024-12-25 12:48:08 - Adding New Customer:113363AG
+2024-12-25 12:48:09 - Adding New Customer:113365AG
+2024-12-25 12:48:09 - Adding New Customer:113366AG
+2024-12-25 12:48:10 - Adding New Customer:113367AG
+2024-12-25 12:48:11 - Adding New Customer:113369AG
+2024-12-25 12:48:12 - Error While Adding or Updating Customer:113370AGERROR:{"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+2024-12-25 12:48:12 - Adding New Customer:1133712A
+2024-12-25 12:48:13 - Adding New Customer:113371AG
+2024-12-25 12:48:14 - Adding New Customer:113372AG
+2024-12-25 12:48:15 - Adding New Customer:113373AG
+2024-12-25 12:48:16 - Adding New Customer:113374AG
+2024-12-25 12:48:17 - Adding New Customer:113375AD
+2024-12-25 12:48:19 - Adding New Customer:113378AG
+2024-12-25 12:48:20 - Adding New Customer:113379AG
+2024-12-25 12:48:20 - Adding New Customer:113380AG
+2024-12-25 12:48:21 - Adding New Customer:113382AG
+2024-12-25 12:48:23 - Adding New Customer:113384AG
+2024-12-25 12:48:23 - Adding New Customer:113385AG
+2024-12-25 12:48:24 - Adding New Customer:113386AG
+2024-12-25 12:48:25 - Adding New Customer:113387AG
+2024-12-25 12:48:26 - Adding New Customer:113388AG
+2024-12-25 12:48:26 - Adding New Customer:113389AG
+2024-12-25 12:48:27 - Adding New Customer:113391AG
+2024-12-25 12:48:28 - Adding New Customer:113392AG
+2024-12-25 12:48:29 - Adding New Customer:113393AG
+2024-12-25 12:48:31 - Adding New Customer:113396AD
+2024-12-25 12:48:31 - Adding New Customer:113396AG
+2024-12-25 12:48:32 - Adding New Customer:113397AG
+2024-12-25 12:48:32 - Adding New Customer:113398AG
+2024-12-25 12:48:33 - Adding New Customer:113399AG
+2024-12-25 12:48:34 - Adding New Customer:113400AG
+2024-12-25 12:48:34 - Adding New Customer:113401AG
+2024-12-25 12:48:36 - Adding New Customer:113402AG
+2024-12-25 12:48:36 - Adding New Customer:113403AG
+2024-12-25 12:48:37 - Adding New Customer:113404AG
+2024-12-25 12:48:39 - Adding New Customer:113406AG
+2024-12-25 12:48:40 - Adding New Customer:113408AG
+2024-12-25 12:48:41 - Adding New Customer:113409AG
+2024-12-25 12:48:42 - Adding New Customer:113410AG
+2024-12-25 12:48:43 - Adding New Customer:113411AG
+2024-12-25 12:48:44 - Adding New Customer:113412AG
+2024-12-25 12:48:44 - Adding New Customer:113413AG
+2024-12-25 12:48:45 - Adding New Customer:113414AG
+2024-12-25 12:48:45 - Adding New Customer:113415AG
+2024-12-25 12:48:46 - Adding New Customer:113416AG
+2024-12-25 12:48:47 - Adding New Customer:113417AG
+2024-12-25 12:48:47 - Adding New Customer:113418AG
+2024-12-25 12:48:48 - Adding New Customer:113419AG
+2024-12-25 12:48:49 - Adding New Customer:113420AG
+2024-12-25 12:48:49 - Adding New Customer:113421AG
+2024-12-25 12:48:50 - Adding New Customer:113422AG
+2024-12-25 12:48:50 - Adding New Customer:113423AG
+2024-12-25 12:48:50 - Adding New Customer:113424AG
+2024-12-25 12:48:52 - Adding New Customer:113425AG
+2024-12-25 12:48:54 - Adding New Customer:113427AG
+2024-12-25 12:48:55 - Adding New Customer:113434AG
+2024-12-25 12:48:58 - Adding New Customer:113437AG
+2024-12-25 12:48:59 - Adding New Customer:113438AG
+2024-12-25 12:49:00 - Adding New Customer:113439AG
+2024-12-25 12:49:01 - Adding New Customer:113440AG
+2024-12-25 12:49:03 - Adding New Customer:113441AG
+2024-12-25 12:49:04 - Adding New Customer:113442AG
+2024-12-25 12:49:05 - Adding New Customer:113443AG
+2024-12-25 12:49:06 - Adding New Customer:113444AG
+2024-12-25 12:49:07 - Adding New Customer:113446AG
+2024-12-25 12:49:08 - Adding New Customer:113447AG
+2024-12-25 12:49:09 - Adding New Customer:113448AG
+2024-12-25 12:49:10 - Adding New Customer:113449AG
+2024-12-25 12:49:11 - Adding New Customer:113451AG
+2024-12-25 12:49:11 - Adding New Customer:113452AG
+2024-12-25 12:49:12 - Adding New Customer:113454AG
+2024-12-25 12:49:13 - Adding New Customer:113457AG
+2024-12-25 12:49:15 - Adding New Customer:113460AG
+2024-12-25 12:49:15 - Adding New Customer:113461AG
+2024-12-25 12:49:15 - Adding New Customer:113462AG
+2024-12-25 12:49:17 - Adding New Customer:113463AG
+2024-12-25 12:49:18 - Adding New Customer:113464AG
+2024-12-25 12:49:19 - Adding New Customer:113465AG
+2024-12-25 12:49:20 - Adding New Customer:113468AG
+2024-12-25 12:49:21 - Adding New Customer:113469AG
+2024-12-25 12:49:22 - Adding New Customer:113470AG
+2024-12-25 12:49:23 - Adding New Customer:113472AG
+2024-12-25 12:49:23 - Adding New Customer:11348AG
+2024-12-25 12:49:24 - Adding New Customer:11350AG
+2024-12-25 12:49:24 - Adding New Customer:11352AG
+2024-12-25 12:49:25 - Adding New Customer:11353AG
+2024-12-25 12:49:25 - Adding New Customer:11354AG
+2024-12-25 12:49:29 - Adding New Customer:11357AG
+2024-12-25 12:49:32 - Adding New Customer:11361AG
+2024-12-25 12:49:33 - Adding New Customer:11362AG
+2024-12-25 12:49:34 - Adding New Customer:11363AG
+2024-12-25 12:49:35 - Adding New Customer:11364AG
+2024-12-25 12:49:36 - Adding New Customer:11366AG
+2024-12-25 12:49:37 - Adding New Customer:11368AG
+2024-12-25 12:49:38 - Adding New Customer:11370AG
+2024-12-25 12:49:39 - Adding New Customer:11371AG
+2024-12-25 12:49:42 - Adding New Customer:11373AG
+2024-12-25 12:49:43 - Adding New Customer:11374AG
+2024-12-25 12:49:43 - Adding New Customer:11375AG
+2024-12-25 12:49:43 - Adding New Customer:11376AG
+2024-12-25 12:49:44 - Adding New Customer:11378AG
+2024-12-25 12:49:45 - Adding New Customer:11383AG
+2024-12-25 12:49:46 - Adding New Customer:11384AG
+2024-12-25 12:49:47 - Adding New Customer:11386AG
+2024-12-25 12:49:48 - Adding New Customer:11387AG
+2024-12-25 12:49:49 - Adding New Customer:11389AG
+2024-12-25 12:49:50 - Adding New Customer:11391AG
+2024-12-25 12:49:51 - Adding New Customer:11393AG
+2024-12-25 12:49:51 - Adding New Customer:11394AG
+2024-12-25 12:49:52 - Adding New Customer:11395AG
+2024-12-25 12:49:53 - Adding New Customer:11396AG
+2024-12-25 12:49:55 - Adding New Customer:11400AG
+2024-12-25 12:49:56 - Adding New Customer:11402AG
+2024-12-25 12:49:57 - Adding New Customer:11404AG
+2024-12-25 12:49:58 - Adding New Customer:11405AG
+2024-12-25 12:49:58 - Adding New Customer:11406AG
+2024-12-25 12:50:00 - Adding New Customer:11408AG
+2024-12-25 12:50:01 - Adding New Customer:11409AG
+2024-12-25 12:50:02 - Adding New Customer:11411AG
+2024-12-25 12:50:03 - Adding New Customer:11412AG
+2024-12-25 12:50:04 - Adding New Customer:11413AG
+2024-12-25 12:50:05 - Adding New Customer:11414AG
+2024-12-25 12:50:06 - Adding New Customer:11417AG
+2024-12-25 12:50:07 - Adding New Customer:11418AG
+2024-12-25 12:50:08 - Adding New Customer:11420AG
+2024-12-25 12:50:09 - Adding New Customer:11421AG
+2024-12-25 12:50:09 - Adding New Customer:11424AG
+2024-12-25 12:50:16 - Adding New Customer:11427AG
+2024-12-25 12:50:17 - Adding New Customer:11428AG
+2024-12-25 12:50:18 - Adding New Customer:11429AG
+2024-12-25 12:50:22 - Adding New Customer:11430AG
+2024-12-25 12:50:24 - Adding New Customer:11431AG
+2024-12-25 12:50:25 - Adding New Customer:11432AG
+2024-12-25 12:50:25 - Adding New Customer:11434AG
+2024-12-25 12:50:27 - Adding New Customer:11435AG
+2024-12-25 12:50:28 - Adding New Customer:11436AG
+2024-12-25 12:50:30 - Adding New Customer:11440AG
+2024-12-25 12:50:31 - Adding New Customer:11441AG
+2024-12-25 12:50:32 - Adding New Customer:11444AG
+2024-12-25 12:50:33 - Adding New Customer:11446AG
+2024-12-25 12:50:34 - Adding New Customer:11447AG
+2024-12-25 12:50:37 - Adding New Customer:11453AG
+2024-12-25 12:50:38 - Adding New Customer:11457AG
+2024-12-25 12:50:40 - Adding New Customer:11459AG
+2024-12-25 12:50:41 - Adding New Customer:11460AG
+2024-12-25 12:50:43 - Adding New Customer:11467AG
+2024-12-25 12:50:44 - Adding New Customer:11471AG
+2024-12-25 12:50:45 - Adding New Customer:11472AG
+2024-12-25 12:50:47 - Adding New Customer:11474AG
+2024-12-25 12:50:47 - Adding New Customer:11476AG
+2024-12-25 12:50:50 - Adding New Customer:11479AG
+2024-12-25 12:50:51 - Adding New Customer:11481AG
+2024-12-25 12:50:52 - Adding New Customer:11482AG
+2024-12-25 12:50:53 - Adding New Customer:11483AG
+2024-12-25 12:50:54 - Adding New Customer:11484AG
+2024-12-25 12:50:55 - Adding New Customer:11485AG
+2024-12-25 12:50:56 - Adding New Customer:11486AG
+2024-12-25 12:50:58 - Adding New Customer:11488AG
+2024-12-25 12:50:59 - Adding New Customer:11489AG
+2024-12-25 12:51:00 - Adding New Customer:11490AG
+2024-12-25 12:51:01 - Adding New Customer:11491AG
+2024-12-25 12:51:02 - Adding New Customer:11492AG
+2024-12-25 12:51:05 - Adding New Customer:11501AG
+2024-12-25 12:51:06 - Adding New Customer:11502AAG
+2024-12-25 12:51:07 - Adding New Customer:11503AAG
+2024-12-25 12:51:07 - Adding New Customer:11504AAG
+2024-12-25 12:51:10 - Adding New Customer:11508AG
+2024-12-25 12:51:10 - Adding New Customer:11509AG
+2024-12-25 12:51:11 - Adding New Customer:115120AG
+2024-12-25 12:51:13 - Adding New Customer:11513AG
+2024-12-25 12:51:15 - Adding New Customer:11518AG
+2024-12-25 12:51:16 - Adding New Customer:11519AG
+2024-12-25 12:51:16 - Adding New Customer:11520AG
+2024-12-25 12:51:18 - Adding New Customer:11522AG
+2024-12-25 12:51:19 - Adding New Customer:11523AG
+2024-12-25 12:51:23 - Adding New Customer:11526AG
+2024-12-25 12:51:24 - Adding New Customer:115289AG
+2024-12-25 12:51:25 - Adding New Customer:11528AG
+2024-12-25 12:51:26 - Adding New Customer:11529AG
+2024-12-25 12:51:26 - Adding New Customer:11530AG
+2024-12-25 12:51:27 - Adding New Customer:11531AG
+2024-12-25 12:51:28 - Adding New Customer:11532AG
+2024-12-25 12:51:29 - Adding New Customer:11535AG
+2024-12-25 12:51:30 - Adding New Customer:11545AG
+2024-12-25 12:51:31 - Adding New Customer:11552AG
+2024-12-25 12:51:32 - Adding New Customer:11564AG
+2024-12-25 12:51:33 - Adding New Customer:11567AG
+2024-12-25 12:51:34 - Adding New Customer:11572AG
+2024-12-25 12:51:37 - Adding New Customer:11581AG
+2024-12-25 12:51:38 - Adding New Customer:11583AG
+2024-12-25 12:51:39 - Adding New Customer:11584AG
+2024-12-25 12:51:40 - Adding New Customer:11586AG
+2024-12-25 12:51:41 - Adding New Customer:11587AG
+2024-12-25 12:51:42 - Adding New Customer:11589AG
+2024-12-25 12:51:42 - Adding New Customer:11590AG
+2024-12-25 12:51:43 - Adding New Customer:11592AG
+2024-12-25 12:51:44 - Adding New Customer:11593AG
+2024-12-25 12:51:45 - Adding New Customer:11594AG
+2024-12-25 12:51:46 - Adding New Customer:11595AG
+2024-12-25 12:51:47 - Adding New Customer:11596AG
+2024-12-25 12:51:48 - Adding New Customer:11598AG
+2024-12-25 12:51:50 - Adding New Customer:11602AG
+2024-12-25 12:51:50 - Adding New Customer:11604AG
+2024-12-25 12:51:50 - Adding New Customer:11605AG
+2024-12-25 12:51:52 - Adding New Customer:11607AG
+2024-12-25 12:51:53 - Adding New Customer:11609AG
+2024-12-25 12:51:54 - Adding New Customer:11610AG
+2024-12-25 12:51:55 - Adding New Customer:116112AG
+2024-12-25 12:51:57 - Adding New Customer:116114AG
+2024-12-25 12:52:05 - Adding New Customer:11612AG
+2024-12-25 12:52:20 - Adding New Customer:11616AG
+2024-12-25 12:52:27 - Adding New Customer:11621AG
+2024-12-25 12:52:29 - Adding New Customer:11622AG
+2024-12-25 12:52:30 - Adding New Customer:11623AG
+2024-12-25 12:52:32 - Adding New Customer:11624AG
+2024-12-25 12:52:34 - Adding New Customer:2KARGENT
+2024-12-25 12:52:35 - Adding New Customer:ALBERNAL
+2024-12-25 12:52:35 - Adding New Customer:AMAZON
+2024-12-25 12:52:35 - Adding New Customer:ARTRAZOR
+2024-12-25 12:52:37 - Adding New Customer:BRINDISA
+2024-12-25 12:52:49 - Adding New Customer:CHOMCHO1
+2024-12-25 12:52:50 - Adding New Customer:CHOMCHOM
+2024-12-25 12:52:50 - Adding New Customer:CIBORIOF
+2024-12-25 12:52:50 - Adding New Customer:DEVSEARC
+2024-12-25 12:52:50 - Adding New Customer:EMOLINO
+2024-12-25 12:52:52 - Adding New Customer:FRATELLI
+2024-12-25 12:52:52 - Adding New Customer:KBRH
+2024-12-25 12:52:52 - Adding New Customer:MARIANOJ
+2024-12-25 12:52:52 - Adding New Customer:MASSIMOD
+2024-12-25 12:52:52 - Adding New Customer:METROCEN
+2024-12-25 12:52:51 - Adding New Customer:PEUGEOT
+2024-12-25 12:52:51 - Adding New Customer:ROASTED
+2024-12-25 12:52:51 - Adding New Customer:SAMPLES
+2024-12-25 12:52:53 - Adding New Customer:SMAX
+2024-12-25 12:52:53 - Adding New Customer:SOHOHOUS
+2024-12-25 12:52:53 - Adding New Customer:SONIA
+2024-12-25 12:52:53 - Adding New Customer:UNALLOCA
+2024-12-25 12:52:53 - Adding New Customer:WEBSALES
+2024-12-25 12:53:33 - Error While Adding or Updating Customer in Sage:ERROR:Error adding product: Invalid value specified
+2024-12-25 12:53:34 - Error While Adding or Updating Customer in Sage:ERROR:Error adding product: Invalid value specified
+2024-12-25 12:53:34 - Error While Adding or Updating Customer in Sage:ERROR:Error adding product: Invalid value specified
+2024-12-25 12:53:35 - Error While Adding or Updating Customer in Sage:ERROR:Error adding product: Invalid value specified
+2024-12-25 12:53:36 - Error While Adding or Updating Customer in Sage:ERROR:Error adding product: Invalid value specified
+2024-12-25 12:53:36 - Error While Adding or Updating Customer in Sage:ERROR:Error adding product: Invalid value specified
+2024-12-25 12:53:37 - Error While Adding or Updating Customer in Sage:ERROR:Error adding product: Invalid value specified
+2024-12-25 12:53:38 - Error While Adding or Updating Customer in Sage:ERROR:Error adding product: Invalid value specified
+2024-12-25 12:53:38 - Error While Adding or Updating Customer in Sage:ERROR:Error adding product: Invalid value specified
+2024-12-25 12:53:39 - Error While Adding or Updating Customer in Sage:ERROR:Error adding product: Invalid value specified
+2024-12-25 12:53:40 - Error While Adding or Updating Customer in Sage:ERROR:Error adding product: Invalid value specified
+2024-12-25 12:53:40 - Error While Adding or Updating Customer in Sage:ERROR:Error adding product: Invalid value specified
+2024-12-25 12:53:41 - Error While Adding or Updating Customer in Sage:ERROR:Error adding product: Invalid value specified
+2024-12-25 12:53:42 - Error While Adding or Updating Customer in Sage:ERROR:Error adding product: Invalid value specified
+2024-12-25 12:53:42 - Error While Adding or Updating Customer in Sage:ERROR:Error adding product: Invalid value specified
+2024-12-25 12:53:43 - Error While Adding or Updating Customer in Sage:ERROR:Error adding product: Invalid value specified
+2024-12-25 12:53:44 - Error While Adding or Updating Customer in Sage:ERROR:Error adding product: Invalid value specified
+2024-12-25 12:53:44 - Error While Adding or Updating Customer in Sage:ERROR:Error adding product: Invalid value specified
+2024-12-25 12:53:45 - Error While Adding or Updating Customer in Sage:ERROR:Error adding product: Invalid value specified
+2024-12-25 12:53:46 - Error While Adding or Updating Customer in Sage:ERROR:Error adding product: Invalid value specified
+2024-12-25 12:53:46 - Error While Adding or Updating Customer in Sage:ERROR:Error adding product: Invalid value specified
+2024-12-25 12:53:47 - Error While Adding or Updating Customer in Sage:ERROR:Error adding product: Invalid value specified
+2024-12-25 12:53:47 - Error While Adding or Updating Customer in Sage:ERROR:Error adding product: Invalid value specified
+2024-12-25 12:53:48 - Error While Adding or Updating Customer in Sage:ERROR:Error adding product: Invalid value specified
+2024-12-25 12:53:49 - Error While Adding or Updating Customer in Sage:ERROR:Error adding product: Invalid value specified
+2024-12-25 21:07:04 - Error while getting customers from Woo ERROR: There was an error deserializing the object of type System.Collections.Generic.List`1[[WooCommerceNET.WooCommerce.v3.Customer, WooCommerce.NET, Version=0.8.6.0, Culture=neutral, PublicKeyToken=null]]. Encountered unexpected character 'U'.
+2024-12-25 21:07:04 - Total Customers to WOO: 0
+2024-12-25 21:07:18 - Total Customers FROM sAGE: 176
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:002350-AERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:0023512ERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:002356AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:002357AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:002358AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:011443AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:011444AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:013302AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:013305AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:013316AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:013342ADERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:013348ADERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:013352ADERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:013393ADERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:013397AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:013445AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:013461AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:034059AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:034061ADERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:034103AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:034133AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:034137AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:034168AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:034174AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:034178AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:034180AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:034210AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:034218AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:034226AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:034243AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:034274AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:034279AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:034284AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:034292AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:034293AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:034297AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:034302AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:034308AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:034311AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:034324AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:034331AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:034332AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:034344AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:034345AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:034346-RERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:034348-RERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:034349AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:034350AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:034354AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:034367AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:034374AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:034409AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:113323AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:113349ADERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:113362AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:113368AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:1133723AERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:113376AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:1133776AERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:113377AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:113383AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:113390AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:113394AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:113395AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:113407AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:113426AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:113428AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:113435AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:113436AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:113445AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:113450AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:113455AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:113459AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:113466AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:113471AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:11351AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:11355AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:11355BANERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:18 - Error While Adding or Updating Customer:11355BRIERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11355EDIERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11355LEEERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11355LEIERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11355REAERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11355REIERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11355STRERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11356AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11358AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11359AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11360AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11365AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11367AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11369AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11380AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11381AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11382AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11385AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11392AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11398AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11399AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11401AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11403AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11407AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11410AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11415AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11419AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11419HAGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11422AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11423AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11426AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11439AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11442AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11449AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11450AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11452AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11455AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11456AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11458AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11461AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11463AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11464AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11465AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11468AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11469AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11470AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11473AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11478AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11487AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11493AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11494AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11496AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11498AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11505AAGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11507AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11511AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11512AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11514AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11515AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11516AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:115189AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11521AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11524AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11525AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11527AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11531AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11561AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11567AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11573AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11574AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11576AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11579AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11582AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11597AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11599AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11600AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11601AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11603AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11606AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:116113AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:116115AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:116116AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11611AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11613AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11614AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11615AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11618AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11619AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11620AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11625AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11626AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11627AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:11628AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:1162AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:1163AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:1164AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:1165AGERROR:No such host is known. (demo.meernmeer.com:443)
+2024-12-25 21:07:19 - Error While Adding or Updating Customer:OTHERERROR:No such host is known. (demo.meernmeer.com:443)

@@ -1,0 +1,19 @@
+2024-12-01 19:38:48 - Object reference not set to an instance of an object.
+   at SageIntegration.SageService.Invoice.SageToPDF.addSageToPDF() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Invoice\SageToPDF.cs:line 67
+2024-12-01 19:49:13 - Object reference not set to an instance of an object.
+   at SageIntegration.SageService.Invoice.SageToPDF.addSageToPDF() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Invoice\SageToPDF.cs:line 67
+2024-12-01 19:49:53 - Object reference not set to an instance of an object.
+   at SageIntegration.SageService.Invoice.SageToPDF.addSageToPDF() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Invoice\SageToPDF.cs:line 67
+2024-12-01 19:50:14 - Object reference not set to an instance of an object.
+   at SageIntegration.SageService.Invoice.SageToPDF.addSageToPDF() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Invoice\SageToPDF.cs:line 67
+2024-12-01 19:50:27 - Nullable object must have a value.
+   at System.Nullable`1.get_Value()
+   at SageIntegration.SageService.Invoice.SageToPDF.addSageToPDF() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Invoice\SageToPDF.cs:line 67
+2024-12-01 19:51:04 - Object reference not set to an instance of an object.
+   at SageIntegration.SageService.Invoice.SageToPDF.addSageToPDF() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Invoice\SageToPDF.cs:line 67
+2024-12-01 19:51:10 - Object reference not set to an instance of an object.
+   at SageIntegration.SageService.Invoice.SageToPDF.addSageToPDF() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Invoice\SageToPDF.cs:line 67
+2024-12-01 19:51:14 - Object reference not set to an instance of an object.
+   at SageIntegration.SageService.Invoice.SageToPDF.addSageToPDF() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Invoice\SageToPDF.cs:line 67
+2024-12-01 19:51:18 - Object reference not set to an instance of an object.
+   at SageIntegration.SageService.Invoice.SageToPDF.addSageToPDF() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Invoice\SageToPDF.cs:line 67

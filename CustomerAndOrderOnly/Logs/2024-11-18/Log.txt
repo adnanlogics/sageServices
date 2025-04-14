@@ -1,0 +1,55 @@
+2024-11-18 00:04:54 - Worker running at: {time}11/18/2024 12:04:54 AM +05:00
+2024-11-18 00:09:54 - Worker running at: {time}11/18/2024 12:09:54 AM +05:00
+2024-11-18 00:14:54 - Worker running at: {time}11/18/2024 12:14:54 AM +05:00
+2024-11-18 00:19:54 - Worker running at: {time}11/18/2024 12:19:54 AM +05:00
+2024-11-18 00:24:54 - Worker running at: {time}11/18/2024 12:24:54 AM +05:00
+2024-11-18 00:29:54 - Worker running at: {time}11/18/2024 12:29:54 AM +05:00
+2024-11-18 00:29:54 - Integration Stared at ShouldRunNow: 11/18/2024 12:29:54 AM +05:00
+2024-11-18 00:35:02 - Worker running at: {time}11/18/2024 12:35:02 AM +05:00
+2024-11-18 00:35:02 - Integration Stared at ShouldRunNow: 11/18/2024 12:35:02 AM +05:00
+2024-11-18 00:40:09 - Worker running at: {time}11/18/2024 12:40:09 AM +05:00
+2024-11-18 00:45:09 - Worker running at: {time}11/18/2024 12:45:09 AM +05:00
+2024-11-18 17:58:18 - Worker running at: {time}11/18/2024 5:58:18 PM +05:00
+2024-11-18 17:58:18 - Integration Stared at ShouldRunNow: 11/18/2024 5:58:18 PM +05:00
+2024-11-18 18:03:35 - Worker running at: {time}11/18/2024 6:03:35 PM +05:00
+2024-11-18 18:03:35 - Integration Stared at ShouldRunNow: 11/18/2024 6:03:35 PM +05:00
+2024-11-18 18:08:45 - Worker running at: {time}11/18/2024 6:08:45 PM +05:00
+2024-11-18 18:13:45 - Worker running at: {time}11/18/2024 6:13:45 PM +05:00
+2024-11-18 18:18:46 - Worker running at: {time}11/18/2024 6:18:46 PM +05:00
+2024-11-18 18:23:46 - Worker running at: {time}11/18/2024 6:23:46 PM +05:00
+2024-11-18 18:28:46 - Worker running at: {time}11/18/2024 6:28:46 PM +05:00
+2024-11-18 18:33:46 - Worker running at: {time}11/18/2024 6:33:46 PM +05:00
+2024-11-18 18:38:46 - Worker running at: {time}11/18/2024 6:38:46 PM +05:00
+2024-11-18 18:43:46 - Worker running at: {time}11/18/2024 6:43:46 PM +05:00
+2024-11-18 18:48:46 - Worker running at: {time}11/18/2024 6:48:46 PM +05:00
+2024-11-18 18:53:46 - Worker running at: {time}11/18/2024 6:53:46 PM +05:00
+2024-11-18 18:58:46 - Worker running at: {time}11/18/2024 6:58:46 PM +05:00
+2024-11-18 18:58:46 - Integration Stared at ShouldRunNow: 11/18/2024 6:58:46 PM +05:00
+2024-11-18 19:04:02 - Worker running at: {time}11/18/2024 7:04:02 PM +05:00
+2024-11-18 19:04:02 - Integration Stared at ShouldRunNow: 11/18/2024 7:04:02 PM +05:00
+2024-11-18 19:09:13 - Worker running at: {time}11/18/2024 7:09:13 PM +05:00
+2024-11-18 19:14:13 - Worker running at: {time}11/18/2024 7:14:13 PM +05:00
+2024-11-18 19:19:13 - Worker running at: {time}11/18/2024 7:19:13 PM +05:00
+2024-11-18 19:24:13 - Worker running at: {time}11/18/2024 7:24:13 PM +05:00
+2024-11-18 19:47:10 - Worker running at: {time}11/18/2024 7:47:10 PM +05:00
+2024-11-18 19:52:10 - Worker running at: {time}11/18/2024 7:52:10 PM +05:00
+2024-11-18 19:57:10 - Worker running at: {time}11/18/2024 7:57:10 PM +05:00
+2024-11-18 22:47:31 - Worker running at: {time}11/18/2024 10:47:31 PM +05:00
+2024-11-18 22:47:31 - Integration Stared at ShouldRunNow: 11/18/2024 10:47:31 PM +05:00
+2024-11-18 22:52:42 - Worker running at: {time}11/18/2024 10:52:42 PM +05:00
+2024-11-18 22:52:42 - Integration Stared at ShouldRunNow: 11/18/2024 10:52:42 PM +05:00
+2024-11-18 22:57:48 - Worker running at: {time}11/18/2024 10:57:48 PM +05:00
+2024-11-18 23:02:48 - Worker running at: {time}11/18/2024 11:02:48 PM +05:00
+2024-11-18 23:07:48 - Worker running at: {time}11/18/2024 11:07:48 PM +05:00
+2024-11-18 23:12:48 - Worker running at: {time}11/18/2024 11:12:48 PM +05:00
+2024-11-18 23:17:48 - Worker running at: {time}11/18/2024 11:17:48 PM +05:00
+2024-11-18 23:22:48 - Worker running at: {time}11/18/2024 11:22:48 PM +05:00
+2024-11-18 23:27:48 - Worker running at: {time}11/18/2024 11:27:48 PM +05:00
+2024-11-18 23:32:48 - Worker running at: {time}11/18/2024 11:32:48 PM +05:00
+2024-11-18 23:37:48 - Worker running at: {time}11/18/2024 11:37:48 PM +05:00
+2024-11-18 23:42:48 - Worker running at: {time}11/18/2024 11:42:48 PM +05:00
+2024-11-18 23:47:48 - Worker running at: {time}11/18/2024 11:47:48 PM +05:00
+2024-11-18 23:47:48 - Integration Stared at ShouldRunNow: 11/18/2024 11:47:48 PM +05:00
+2024-11-18 23:52:58 - Worker running at: {time}11/18/2024 11:52:58 PM +05:00
+2024-11-18 23:52:58 - Integration Stared at ShouldRunNow: 11/18/2024 11:52:58 PM +05:00
+2024-11-18 23:58:04 - Worker running at: {time}11/18/2024 11:58:04 PM +05:00

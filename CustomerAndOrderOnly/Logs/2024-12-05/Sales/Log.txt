@@ -1,0 +1,8 @@
+2024-12-05 22:58:13 - Getting Sales Order from Sage
+2024-12-05 23:03:13 - Getting Sales Order from Sage
+2024-12-05 23:07:59 - Getting Sales Order from Sage
+2024-12-05 23:19:03 - Getting Sales Order from Sage
+2024-12-05 23:33:58 - Getting Sales Order from Sage
+2024-12-05 23:34:27 - Error while getting order from sage Error: Not a legal OleAut date.
+2024-12-05 23:34:31 - Error while getting order from sage Error: Not a legal OleAut date.
+2024-12-05 23:36:52 - Getting Sales Order from Sage

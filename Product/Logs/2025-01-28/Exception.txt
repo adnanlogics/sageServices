@@ -1,0 +1,41 @@
+2025-01-28 17:26:32 - No such host is known. (demo.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at SageIntegration.WooRepository.Order.Order.GetAll() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Order\Order.cs:line 217
+2025-01-28 17:37:07 - Object reference not set to an instance of an object.
+   at System.Runtime.InteropServices.Marshal.ReleaseComObject(Object o)
+   at SageIntegration.SageRepository.SalesOrder.SalesOrder.AddOrUpdateOrder(Order wooOrder, Customer customer) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\SalesOrder\SalesOrder.cs:line 253
+2025-01-28 17:37:36 - Object reference not set to an instance of an object.
+   at System.Runtime.InteropServices.Marshal.ReleaseComObject(Object o)
+   at SageIntegration.SageRepository.SalesOrder.SalesOrder.AddOrUpdateOrder(Order wooOrder, Customer customer) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\SalesOrder\SalesOrder.cs:line 253
+2025-01-28 17:37:45 - Object reference not set to an instance of an object.
+   at System.Runtime.InteropServices.Marshal.ReleaseComObject(Object o)
+   at SageIntegration.SageRepository.SalesOrder.SalesOrder.AddOrUpdateOrder(Order wooOrder, Customer customer) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\SalesOrder\SalesOrder.cs:line 253
+2025-01-28 17:37:53 - Object reference not set to an instance of an object.
+   at System.Runtime.InteropServices.Marshal.ReleaseComObject(Object o)
+   at SageIntegration.SageRepository.SalesOrder.SalesOrder.AddOrUpdateOrder(Order wooOrder, Customer customer) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\SalesOrder\SalesOrder.cs:line 253
+2025-01-28 17:38:02 - Object reference not set to an instance of an object.
+   at System.Runtime.InteropServices.Marshal.ReleaseComObject(Object o)
+   at SageIntegration.SageRepository.SalesOrder.SalesOrder.AddOrUpdateOrder(Order wooOrder, Customer customer) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\SalesOrder\SalesOrder.cs:line 253
+2025-01-28 17:38:13 - Object reference not set to an instance of an object.
+   at System.Runtime.InteropServices.Marshal.ReleaseComObject(Object o)
+   at SageIntegration.SageRepository.SalesOrder.SalesOrder.AddOrUpdateOrder(Order wooOrder, Customer customer) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\SalesOrder\SalesOrder.cs:line 253
+2025-01-28 17:38:25 - Object reference not set to an instance of an object.
+   at System.Runtime.InteropServices.Marshal.ReleaseComObject(Object o)
+   at SageIntegration.SageRepository.SalesOrder.SalesOrder.AddOrUpdateOrder(Order wooOrder, Customer customer) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\SalesOrder\SalesOrder.cs:line 253
+2025-01-28 17:38:34 - Object reference not set to an instance of an object.
+   at System.Runtime.InteropServices.Marshal.ReleaseComObject(Object o)
+   at SageIntegration.SageRepository.SalesOrder.SalesOrder.AddOrUpdateOrder(Order wooOrder, Customer customer) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\SalesOrder\SalesOrder.cs:line 253
+2025-01-28 17:38:46 - Object reference not set to an instance of an object.
+   at System.Runtime.InteropServices.Marshal.ReleaseComObject(Object o)
+   at SageIntegration.SageRepository.SalesOrder.SalesOrder.AddOrUpdateOrder(Order wooOrder, Customer customer) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\SalesOrder\SalesOrder.cs:line 253
+2025-01-28 17:39:00 - Object reference not set to an instance of an object.
+   at System.Runtime.InteropServices.Marshal.ReleaseComObject(Object o)
+   at SageIntegration.SageRepository.SalesOrder.SalesOrder.AddOrUpdateOrder(Order wooOrder, Customer customer) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\SalesOrder\SalesOrder.cs:line 253
+2025-01-28 17:40:31 - Object reference not set to an instance of an object.
+   at System.Runtime.InteropServices.Marshal.ReleaseComObject(Object o)
+   at SageIntegration.SageRepository.SalesOrder.SalesOrder.AddOrUpdateOrder(Order wooOrder, Customer customer) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\SalesOrder\SalesOrder.cs:line 253
+2025-01-28 17:40:43 - Object reference not set to an instance of an object.
+   at System.Runtime.InteropServices.Marshal.ReleaseComObject(Object o)
+   at SageIntegration.SageRepository.SalesOrder.SalesOrder.AddOrUpdateOrder(Order wooOrder, Customer customer) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\SalesOrder\SalesOrder.cs:line 253

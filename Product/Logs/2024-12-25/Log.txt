@@ -1,0 +1,12 @@
+2024-12-25 12:33:27 - Worker running at: {time}25/12/02024 12:33:27 PM +05:00
+2024-12-25 12:33:27 - First time run initiated immediately as per configuration.
+2024-12-25 12:33:27 - Integration Stared at: 25/12/02024 12:33:27 PM +05:00
+2024-12-25 12:37:43 - Worker running at: {time}25/12/02024 12:37:43 PM +05:00
+2024-12-25 12:37:43 - First time run initiated immediately as per configuration.
+2024-12-25 12:37:43 - Integration Stared at: 25/12/02024 12:37:43 PM +05:00
+2024-12-25 21:01:56 - Worker running at: {time}25/12/02024 9:01:56 PM +05:00
+2024-12-25 21:01:56 - First time run initiated immediately as per configuration.
+2024-12-25 21:01:56 - Integration Stared at: 25/12/02024 9:01:56 PM +05:00
+2024-12-25 23:21:43 - Worker running at: {time}25/12/02024 11:21:43 PM +05:00
+2024-12-25 23:21:43 - First time run initiated immediately as per configuration.
+2024-12-25 23:21:43 - Integration Stared at: 25/12/02024 11:21:43 PM +05:00

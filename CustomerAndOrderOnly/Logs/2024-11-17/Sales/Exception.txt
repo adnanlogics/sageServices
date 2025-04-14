@@ -1,0 +1,4 @@
+2024-11-17 01:32:38 - Object reference not set to an instance of an object.
+   at SageIntegration.SageService.SalesOrder.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\SalesOrder\SageToWoo.cs:line 63
+2024-11-17 12:47:17 - Object reference not set to an instance of an object.
+   at SageIntegration.SageService.SalesOrder.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\SalesOrder\SageToWoo.cs:line 63

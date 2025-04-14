@@ -1,0 +1,7 @@
+2025-01-19 19:58:00 - Error connecting to Sage: Program is in exclusive mode. Logon cannot proceed
+   at SageIntegration.Client.SageConnectionManager.ConnectToSage() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\Client\SageConnectionManager.cs:line 41
+   at SageIntegration.SageRepository.Customer.CustomerRepository.GetAllAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\Customer\CustomerRepository.cs:line 140
+2025-01-19 19:58:12 - Object reference not set to an instance of an object.
+   at System.Runtime.InteropServices.Marshal.ReleaseComObject(Object o)
+   at SageIntegration.SageRepository.Customer.CustomerRepository.GetAllAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageRepository\Customer\CustomerRepository.cs:line 186
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 33

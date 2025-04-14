@@ -1,0 +1,9 @@
+2024-12-04 21:24:28 - Worker running at: {time}04/12/02024 9:24:28 PM +05:00
+2024-12-04 21:24:30 - Integration Stared at ShouldRunNow: 04/12/02024 9:24:30 PM +05:00
+2024-12-04 21:33:51 - Worker running at: {time}04/12/02024 9:33:51 PM +05:00
+2024-12-04 21:33:56 - Integration Stared at ShouldRunNow: 04/12/02024 9:33:56 PM +05:00
+2024-12-04 22:18:37 - Worker running at: {time}04/12/02024 10:18:37 PM +05:00
+2024-12-04 22:35:06 - Worker running at: {time}04/12/02024 10:35:06 PM +05:00
+2024-12-04 22:38:35 - Worker running at: {time}04/12/02024 10:38:35 PM +05:00
+2024-12-04 22:39:38 - Worker running at: {time}04/12/02024 10:39:38 PM +05:00
+2024-12-04 22:46:24 - Worker running at: {time}04/12/02024 10:46:24 PM +05:00

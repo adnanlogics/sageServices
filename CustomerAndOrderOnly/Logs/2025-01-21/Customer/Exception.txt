@@ -1,0 +1,9 @@
+2025-01-21 12:41:46 - Object reference not set to an instance of an object.
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync()
+2025-01-21 12:50:19 - {"code":"rest_invalid_param","message":"Invalid parameter(s): email","data":{"status":400,"params":{"email":"Invalid email address."},"details":{"email":{"code":"rest_invalid_email","message":"Invalid email address.","data":null}}}}
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at WooCommerceNET.WooCommerce.v3.WCObject`16.WCCustomerItem.Get(String email, Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetCustomer(String email) in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 239
+   at SageIntegration.SageService.Customer.SageToWoo.addSageToWooAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Customer\SageToWoo.cs:line 49

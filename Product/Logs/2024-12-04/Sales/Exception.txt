@@ -1,0 +1,29 @@
+2024-12-04 21:50:31 - {"code":"woocommerce_rest_shop_order_invalid_id","message":"Invalid ID.","data":{"status":404}}
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.Get(UInt64 id, Dictionary`2 parms)
+   at SageIntegration.SageService.Invoice.SageToPDF.addSageToPDF() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Invoice\SageToPDF.cs:line 73
+2024-12-04 21:50:49 - Object reference not set to an instance of an object.
+   at SageIntegration.SageService.Invoice.SageToPDF.addSageToPDF() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Invoice\SageToPDF.cs:line 70
+2024-12-04 21:50:54 - Object reference not set to an instance of an object.
+   at SageIntegration.SageService.Invoice.SageToPDF.addSageToPDF() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Invoice\SageToPDF.cs:line 70
+2024-12-04 21:50:59 - Object reference not set to an instance of an object.
+   at SageIntegration.SageService.Invoice.SageToPDF.addSageToPDF() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Invoice\SageToPDF.cs:line 70
+2024-12-04 21:51:03 - Object reference not set to an instance of an object.
+   at SageIntegration.SageService.Invoice.SageToPDF.addSageToPDF() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Invoice\SageToPDF.cs:line 70
+2024-12-04 21:51:07 - Nullable object must have a value.
+   at System.Nullable`1.get_Value()
+   at SageIntegration.SageService.Invoice.SageToPDF.addSageToPDF() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Invoice\SageToPDF.cs:line 70
+2024-12-04 21:51:11 - Object reference not set to an instance of an object.
+   at SageIntegration.SageService.Invoice.SageToPDF.addSageToPDF() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Invoice\SageToPDF.cs:line 70
+2024-12-04 21:51:49 - Object reference not set to an instance of an object.
+   at SageIntegration.SageService.Invoice.SageToPDF.addSageToPDF() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Invoice\SageToPDF.cs:line 70
+2024-12-04 21:52:39 - Object reference not set to an instance of an object.
+   at SageIntegration.SageService.Invoice.SageToPDF.addSageToPDF() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Invoice\SageToPDF.cs:line 70
+2024-12-04 21:52:53 - Object reference not set to an instance of an object.
+   at SageIntegration.SageService.Invoice.SageToPDF.addSageToPDF() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Invoice\SageToPDF.cs:line 70
+2024-12-04 21:56:34 - {"code":"woocommerce_rest_shop_order_invalid_id","message":"Invalid ID.","data":{"status":404}}
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.Get(UInt64 id, Dictionary`2 parms)
+   at SageIntegration.SageService.Invoice.SageToPDF.addSageToPDF() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\SageService\Invoice\SageToPDF.cs:line 75

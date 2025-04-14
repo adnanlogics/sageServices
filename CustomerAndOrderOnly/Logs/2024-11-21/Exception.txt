@@ -1,0 +1,45 @@
+2024-11-21 00:37:24 - No such host is known. (test.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetAllAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 127
+2024-11-21 00:37:26 - No such host is known. (test.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at SageIntegration.WooRepository.Product.ProductRepository.GetAll() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Product\ProductRepository.cs:line 130
+2024-11-21 00:37:28 - No such host is known. (test.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at SageIntegration.WooRepository.Order.Order.GetAll() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Order\Order.cs:line 217
+2024-11-21 19:28:00 - No such host is known. (test.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetAllAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 127
+2024-11-21 19:28:02 - No such host is known. (test.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at SageIntegration.WooRepository.Product.ProductRepository.GetAll() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Product\ProductRepository.cs:line 130
+2024-11-21 19:28:03 - No such host is known. (test.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at SageIntegration.WooRepository.Order.Order.GetAll() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Order\Order.cs:line 217
+2024-11-21 19:33:04 - No such host is known. (test.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at SageIntegration.WooRepository.Customer.CustomerRepositry.GetAllAsync() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Customer\CustomerRepositry.cs:line 127
+2024-11-21 19:33:04 - No such host is known. (test.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at SageIntegration.WooRepository.Product.ProductRepository.GetAll() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Product\ProductRepository.cs:line 130
+2024-11-21 19:33:06 - No such host is known. (test.meernmeer.com:443)
+   at WooCommerceNET.RestAPI.SendHttpClientRequest[T](String endpoint, RequestMethod method, T requestBody, Dictionary`2 parms)
+   at WooCommerceNET.RestAPI.GetRestful(String endpoint, Dictionary`2 parms)
+   at WooCommerceNET.Base.WCItem`1.GetAll(Dictionary`2 parms)
+   at SageIntegration.WooRepository.Order.Order.GetAll() in C:\Users\Dell\Documents\AhmedUK\SageIntegration\WooRepository\Order\Order.cs:line 217
